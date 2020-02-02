@@ -1,8 +1,9 @@
 ## Description
-Data and scripts associated with the article "Microclimate buffering and thermal tolerance across elevations in a tropical butterfly", Journal of Experimental Biology (2020), by Gabriela Montejo-Kovacevich1, Simon H. Martin, Joana I. Meier1, Caroline N. Bacquet, Monica Monllor, Chris D. Jiggins & Nicola J. Nadeau
+Data and scripts associated with the article "Microclimate buffering and thermal tolerance across elevations in a tropical butterfly", Journal of Experimental Biology (2020), by Gabriela Montejo-Kovacevich, Simon H. Martin, Joana I. Meier, Caroline N. Bacquet, Monica Monllor, Chris D. Jiggins & Nicola J. Nadeau
 
 ## Contents
-````├── 1.data
+````
+├── 1.data
 │   ├── cg.coll.reach.adult.csv
 │   ├── fig1.1.logger.hourly.means.csv
 │   ├── fig1.1.monthly.raw.temps.wc.csv
