@@ -1,0 +1,9 @@
+alt_type,side_andes,height,temp.range.area.mean,temp.range.area.mean.sd,alt.type_height
+high,east,c,6.267548542,1.284446878,high.c
+high,east,u,4.861238833,0.911190931,high.u
+high,west,c,4.57373503,1.206332602,high.c
+high,west,u,3.308180625,0.319603246,high.u
+low,east,c,7.86932462,1.083439957,low.c
+low,east,u,5.750351328,0.785588974,low.u
+low,west,c,6.607381275,1.076594457,low.c
+low,west,u,4.547864317,0.792494027,low.u
