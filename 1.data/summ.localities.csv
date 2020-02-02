@@ -1,0 +1,5 @@
+"alt.slope","side_andes","alt_type","lat","lon","alt","wc.annual.mean.temp","wc.bio2.annual.diurnal.range","wc.bio3.isothermality","wc.bio4.seasonality","wc.bio7.annual.temp.range","wc.annual.precipitation"
+"high_east","east","high",-0.693372142857143,-77.7484657142857,1219.92857142857,193,108,87,405,123,4040
+"high_west","west","high",0.157750714285714,-78.8610371428571,1208.71428571429,202,91,86,359,105,2845
+"low_east","east","low",-1.06727428571429,-77.6252328571429,420.714285714286,236,99,89,404,111,3746
+"low_west","west","low",0.210414285714286,-78.9472557142857,468.428571428571,231,86,82,549,104,2623

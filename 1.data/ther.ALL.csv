@@ -1,0 +1,633 @@
+cam_code,egg.id,mother.id,body.mass,type.reared,type.alt,genus,species,subsp,sex,exp.success,time.to.40,time.ko.total,time.40.to.ko,temp.at.ko,recovered,area.mm2,aspect.ratio,pred.present,error.affects.length.big,altitude,mins.40.to.ko,mins.to.40,mins.ko.total,locality
+CAM041595,2,2,NA,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:08:25,00:23:49,00:15:24,39.1,yes,520.8,2.15,n,n,1312,15.4,8.416666667,00:23:49,Ikiam Mariposario
+CAM041596,3,2,NA,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:07:56,00:16:56,00:09:00,40,yes,530.373,2.15,n,n,1312,9,7.933333333,00:16:56,Ikiam Mariposario
+CAM041597,16,2,NA,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:06:52,00:15:56,00:09:04,40.1,yes,449.995,2.36,n,y,1312,9.066666667,6.866666667,00:15:56,Ikiam Mariposario
+CAM041600,17,2,0.493,reared,hig_f1,Heliconius,erato,lativitta,female,no,,,,NA,,NA,NA,,,1312,NA,NA,,
+CAM041601,5,2,0.507,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:25:45,00:26:55,00:01:10,39.4,yes,532.126,2.165,n,n,1312,1.166666667,25.75,00:26:55,Ikiam Mariposario
+CAM041604,13,2,0.579,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:15:45,00:18:30,00:02:45,40.2,yes,509.025,2.132,n,n,1312,2.75,15.75,00:18:30,Ikiam Mariposario
+CAM041605,95,2,0.586,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:14:12,00:14:27,00:00:15,39.2,yes,504.998,1.902,n,y,1312,0.25,14.2,00:14:27,Ikiam Mariposario
+CAM041614,49,2,0.521,reared,hig_f1,Heliconius,erato,lativitta,female,yes,,00:06:48,00:00:00,38.9,yes,468.709,1.83,n,y,1312,6.8,NA,00:06:48,Ikiam Mariposario
+CAM041617,30,2,0.509,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:22:01,00:23:31,00:01:30,40.5,yes,544.811,2.068,n,n,1312,1.5,22.01666667,00:23:31,Ikiam Mariposario
+CAM041611,38,7,0.511,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:05:10,00:10:28,00:05:18,39.5,yes,531.737,2.05,n,n,1348,5.3,5.166666667,00:10:28,Ikiam Mariposario
+CAM041612,41,7,0.506,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:07:09,00:12:55,00:05:46,39.3,yes,528.634,1.933,n,n,1348,5.766666667,7.15,00:12:55,Ikiam Mariposario
+CAM041620,91,7,0.511,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:15:33,00:17:32,00:01:59,39.2,yes,437.383,2.003,n,y,1348,1.983333333,15.55,00:17:32,Ikiam Mariposario
+CAM041621,42,7,0.468,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:08:03,00:10:30,00:02:27,39.6,yes,344.824,1.97,n,y,1348,2.45,8.05,00:10:30,Ikiam Mariposario
+CAM041627,73,7,0.46,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:10:39,00:14:06,00:03:27,39.6,yes,445.109,1.759,n,y,1348,3.45,10.65,00:14:06,Ikiam Mariposario
+CAM041630,113,7,0.484,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:09:23,00:15:25,00:06:02,40,yes,358.269,1.85,n,y,1348,6.033333333,9.383333333,00:15:25,Ikiam Mariposario
+CAM041633,144,7,0.557,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:24:30,00:29:31,00:05:01,40.6,yes,455.005,1.883,n,y,1348,5.016666667,24.5,00:29:31,Ikiam Mariposario
+CAM041635,121,7,0.525,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:11:01,00:12:59,00:01:58,40.8,yes,463.194,2.332,n,y,1348,1.966666667,11.01666667,00:12:59,Ikiam Mariposario
+CAM041636,129,7,0.556,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:11:08,00:14:05,00:02:57,39.8,yes,479.272,1.856,n,y,1348,2.95,11.13333333,00:14:05,Ikiam Mariposario
+CAM041640,131,7,0.601,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:08:05,00:09:07,00:01:02,40.1,yes,549.967,2.132,n,n,1348,1.033333333,8.083333333,00:09:07,Ikiam Mariposario
+CAM041643,132,7,0.55,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:10:56,00:12:32,00:01:36,41.3,yes,420.892,2.017,n,n,1348,1.6,10.93333333,00:12:32,Ikiam Mariposario
+CAM041650,223,7,0.558,reared,hig_f1,Heliconius,erato,lativitta,male,no_deformed,00:04:29,00:05:00,00:00:31,39.6,yes,NA,NA,NA,NA,1348,0.516666667,4.483333333,00:05:00,Ikiam Mariposario
+CAM041654,224,7,0.581,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:07:55,00:09:50,00:01:55,40.2,yes,487.706,1.842,n,y,1348,1.916666667,7.916666667,00:09:50,Ikiam Mariposario
+CAM041655,226,7,0.573,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:04:57,00:05:44,00:00:47,39.9,yes,446.356,1.964,n,n,1348,0.783333333,4.95,00:05:44,Ikiam Mariposario
+CAM041660,245,7,0.571,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:12:04,00:15:23,00:03:19,40.1,yes,496.385,2.028,n,n,1348,3.316666667,12.06666667,00:15:23,Ikiam Mariposario
+CAM041668,282,7,0.537,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:04:08,00:08:12,00:04:04,40.3,yes,454.618,2.043,n,n,1348,4.066666667,4.133333333,00:08:12,Ikiam Mariposario
+CAM041671,267,7,0.537,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:05:47,00:17:37,00:11:50,40.8,yes,446.044,2.077,n,n,1348,11.83333333,5.783333333,00:17:37,Ikiam Mariposario
+CAM041678,280,7,0.525,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:08:30,00:09:28,00:00:58,39.7,yes,455.8,2.125,n,n,1348,0.966666667,8.5,00:09:28,Ikiam Mariposario
+CAM041700,629,7,0.489,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:04:02,00:12:23,00:08:21,40.3,yes,505.095,2.091,n,n,1348,8.35,4.033333333,00:12:23,Ikiam Mariposario
+CAM041704,645,7,0.484,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:03:35,00:10:06,00:06:31,40.1,yes,490.318,2.146,n,n,1348,6.516666667,3.583333333,00:10:06,Ikiam Mariposario
+CAM041707,629,7,0.489,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:06:07,00:16:50,00:10:43,41.5,yes,534.475,2.079,n,n,1348,10.71666667,6.116666667,00:16:50,Ikiam Mariposario
+CAM041708,628,7,0.492,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:03:30,00:12:32,00:09:02,41.5,yes,545.919,2.06,n,n,1348,9.033333333,3.5,00:12:32,Ikiam Mariposario
+CAM041712,644,7,0.47,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:03:16,00:15:14,00:11:58,41.8,yes,444.283,2.127,n,n,1348,11.96666667,3.266666667,00:15:14,Ikiam Mariposario
+CAM041713,647,7,0.499,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:05:18,00:11:20,00:06:02,41.9,yes,479.72,2.115,n,n,1348,6.033333333,5.3,00:11:20,Ikiam Mariposario
+CAM041714,699,7,0.51,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:05:12,00:11:08,00:05:56,41.4,yes,507.696,2.121,n,n,1348,5.933333333,5.2,00:11:08,Ikiam Mariposario
+CAM041715,657,7,0.526,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:06:28,00:08:28,00:02:00,40.3,yes,531.428,2.054,n,n,1348,2,6.466666667,00:08:28,Ikiam Mariposario
+CAM041718,671,7,0.52,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:04:28,00:11:16,00:06:48,41.4,yes,498.53,2.227,n,n,1348,6.8,4.466666667,00:11:16,Ikiam Mariposario
+CAM041726,681,7,0.528,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:04:37,00:16:24,00:11:47,41.2,yes,473.775,2.109,n,n,1348,11.78333333,4.616666667,00:16:24,Ikiam Mariposario
+CAM041741,689,7,0.534,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:05:25,00:19:18,00:13:53,40.3,yes,541.507,2.129,n,n,1348,13.88333333,5.416666667,00:19:18,Ikiam Mariposario
+CAM041745,699,7,0.485,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:03:41,00:15:12,00:11:31,41.3,yes,520.529,2.22,n,n,1348,11.51666667,3.683333333,00:15:12,Ikiam Mariposario
+CAM041746,700,7,0.49,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:04:37,00:11:07,00:06:30,41.6,yes,533.368,2.135,n,n,1348,6.5,4.616666667,00:11:07,Ikiam Mariposario
+CAM041751,690,7,0.501,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:02:29,00:17:13,00:14:44,41.6,yes,520.462,2.172,n,n,1348,14.73333333,2.483333333,00:17:13,Ikiam Mariposario
+CAM041754,710,7,0.49,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:02:10,00:21:10,00:19:00,41.9,yes,513.749,2.124,n,n,1348,19,2.166666667,00:21:10,Ikiam Mariposario
+CAM041760,723,7,0.409,reared,hig_f1,Heliconius,erato,lativitta,male,no,,,,NA,,NA,NA,,,1348,NA,NA,NA,Ikiam Mariposario
+CAM041762,730,7,0.51,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:02:01,00:13:59,00:11:58,41.9,yes,522.472,2.084,n,n,1348,11.96666667,2.016666667,00:13:59,Ikiam Mariposario
+CAM041770,721,7,0.59,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:06:20,00:16:52,00:10:32,41.1,yes,534.617,2.225,n,n,1348,10.53333333,6.333333333,00:16:52,Ikiam Mariposario
+CAM041772,726,7,0.47,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:03:18,00:17:17,00:13:59,41.1,yes,501.436,2.133,n,n,1348,13.98333333,3.3,00:17:17,Ikiam Mariposario
+CAM041773,729,7,0.471,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:04:14,00:18:25,00:14:11,41.9,yes,476.263,2.071,n,n,1348,14.18333333,4.233333333,00:18:25,Ikiam Mariposario
+CAM041778,737,7,0.486,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:07:41,00:18:54,00:11:13,40.9,yes,470.893,2.077,n,n,1348,11.21666667,7.683333333,00:18:54,Ikiam Mariposario
+CAM041779,739,7,0.474,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:07:30,00:17:47,00:10:17,41.9,yes,486.729,2.115,n,n,1348,10.28333333,7.5,00:17:47,Ikiam Mariposario
+CAM041788,749,7,0.507,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:06:32,00:19:54,00:13:22,41.8,yes,517.1,2.132,n,n,1348,13.36666667,6.533333333,00:19:54,Ikiam Mariposario
+CAM041794,753,7,0.465,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:07:02,00:16:42,00:09:40,39.6,yes,461.672,2.104,n,n,1348,9.666666667,7.033333333,00:16:42,Ikiam Mariposario
+CAM041796,755,7,0.459,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:07:29,00:22:23,00:14:54,41.3,yes,475.808,2.206,n,n,1348,14.9,7.483333333,00:22:23,Ikiam Mariposario
+CAM041798,760,7,0.478,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:07:41,00:22:35,00:14:54,40.5,yes,483.907,2.082,n,n,1348,14.9,7.683333333,00:22:35,Ikiam Mariposario
+CAM041800,757,7,0.507,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:05:46,00:12:28,00:06:42,40.9,yes,521.811,2.075,n,n,1348,6.7,5.766666667,00:12:28,Ikiam Mariposario
+CAM041803,756,7,0.483,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:05:08,00:18:23,00:13:15,40.5,yes,526.094,1.998,n,n,1348,13.25,5.133333333,00:18:23,Ikiam Mariposario
+CAM041804,761,7,0.519,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:05:23,00:18:15,00:12:52,40.5,yes,550.253,2.09,n,n,1348,12.86666667,5.383333333,00:18:15,Ikiam Mariposario
+CAM041805,765,7,0.478,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:06:18,00:17:03,00:10:45,40.4,yes,477.563,1.896,n,y,1348,10.75,6.3,00:17:03,Ikiam Mariposario
+CAM041806,768,7,0.494,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:05:54,00:19:45,00:13:51,40.8,yes,518.028,2.005,n,n,1348,13.85,5.9,00:19:45,Ikiam Mariposario
+CAM041809,770,7,0.507,reared,hig_f1,Heliconius,erato,NA,male,yes,00:07:21,00:25:37,00:18:16,40.9,yes,539.784,1.994,n,n,1348,18.26666667,7.35,00:25:37,NA
+CAM041810,771,7,0.506,reared,hig_f1,Heliconius,erato,NA,female,yes,00:07:35,00:23:30,00:15:55,40.5,yes,502.868,2.075,n,n,1348,15.91666667,7.583333333,00:23:30,NA
+CAM041811,772,7,0.513,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:54,00:25:10,00:18:16,41,yes,561.394,2.043,n,n,1348,18.26666667,6.9,00:25:10,NA
+CAM041814,781,7,0.469,reared,hig_f1,Heliconius,erato,NA,male,yes,00:07:28,00:18:23,00:10:55,40.5,yes,NA,NA,NA,NA,1348,10.91666667,7.466666667,00:18:23,NA
+CAM041816,773,7,0.463,reared,hig_f1,Heliconius,erato,NA,female,yes,00:05:23,00:13:29,00:08:06,39.4,yes,NA,NA,NA,NA,1348,8.1,5.383333333,00:13:29,NA
+CAM041819,797,7,0.487,reared,hig_f1,Heliconius,erato,NA,male,yes,00:07:25,00:21:39,00:14:14,40.5,yes,541.511,2.12,n,n,1348,14.23333333,7.416666667,00:21:39,NA
+CAM041821,794,7,0.457,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:34,00:19:45,00:13:11,40.2,yes,438.447,2.216,n,n,1348,13.18333333,6.566666667,00:19:45,NA
+CAM041825,804,7,0.473,reared,hig_f1,Heliconius,erato,NA,male,yes,00:07:21,00:17:37,00:10:16,40,yes,490.215,2.11,n,n,1348,10.26666667,7.35,00:17:37,NA
+CAM041828,796,7,0.476,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:27,00:16:23,00:09:56,39.7,yes,506.912,2.101,n,n,1348,9.933333333,6.45,00:16:23,NA
+CAM041829,802,7,0.496,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:01,00:12:23,00:06:22,39.9,yes,523.044,2.163,n,n,1348,6.366666667,6.016666667,00:12:23,NA
+CAM041833,mother,7,0.403,wild,hig,Heliconius,erato,lativitta,female,no,,,,NA,,NA,NA,y,y,1348,NA,NA,,
+CAM041835,803,7,0.488,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:27,00:25:23,00:18:56,40.3,yes,535.527,2.053,n,n,1348,18.93333333,6.45,00:25:23,NA
+CAM041836,809,7,0.484,reared,hig_f1,Heliconius,erato,NA,male,yes,00:06:40,00:24:13,00:17:33,40.8,yes,NA,NA,NA,NA,1348,17.55,6.666666667,00:24:13,NA
+CAM041837,811,7,0.455,reared,hig_f1,Heliconius,erato,NA,female,yes,00:07:06,00:23:20,00:16:14,41,yes,NA,NA,NA,NA,1348,16.23333333,7.1,00:23:20,NA
+CAM041838,812,7,0.499,reared,hig_f1,Heliconius,erato,NA,male,yes,00:07:58,00:24:04,00:16:06,40.6,yes,513.103,2.044,n,n,1348,16.1,7.966666667,00:24:04,NA
+CAM041839,813,7,0.468,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:55,00:25:06,00:18:11,39.7,yes,420.701,2.014,n,n,1348,18.18333333,6.916666667,00:25:06,NA
+CAM041840,816,7,0.505,reared,hig_f1,Heliconius,erato,NA,male,yes,00:07:28,00:15:01,00:07:33,41,yes,532.128,2.131,n,n,1348,7.55,7.466666667,00:15:01,NA
+CAM041844,819,7,0.503,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:23,00:19:14,00:12:51,39.2,yes,470.544,2.168,n,n,1348,12.85,6.383333333,00:19:14,NA
+CAM041845,820,7,0.487,reared,hig_f1,Heliconius,erato,NA,male,yes,00:06:35,00:20:11,00:13:36,40.8,yes,474.84,2.064,n,n,1348,13.6,6.583333333,00:20:11,NA
+CAM041849,817,7,0.519,reared,hig_f1,Heliconius,erato,NA,female,yes,00:05:27,00:16:25,00:10:58,40,yes,518.721,2.05,n,n,1348,10.96666667,5.45,00:16:25,NA
+CAM041850,818,7,0.495,reared,hig_f1,Heliconius,erato,NA,male,yes,00:06:03,00:16:19,00:10:16,40.1,yes,495.318,2.201,n,n,1348,10.26666667,6.05,00:16:19,NA
+CAM041851,824,7,0.508,reared,hig_f1,Heliconius,erato,NA,male,yes,00:06:35,00:16:32,00:09:57,39.9,yes,496.414,2.109,n,n,1348,9.95,6.583333333,00:16:32,NA
+CAM041855,842,7,0.466,reared,hig_f1,Heliconius,erato,NA,male,yes,00:05:38,00:10:21,00:04:43,40,yes,515.676,2.057,n,n,1348,4.716666667,5.633333333,00:10:21,NA
+CAM041858,823,7,0.481,reared,hig_f1,Heliconius,erato,NA,female,yes,00:07:50,00:14:32,00:06:42,39.9,yes,512.736,2.126,n,n,1348,6.7,7.833333333,00:14:32,NA
+CAM041862,833,7,0.511,reared,hig_f1,Heliconius,erato,NA,male,yes,00:05:03,00:15:13,00:10:10,40.2,yes,496.583,2.174,n,n,1348,10.16666667,5.05,00:15:13,NA
+CAM041865,839,7,0.495,reared,hig_f1,Heliconius,erato,NA,female,yes,00:07:45,00:14:29,00:06:44,40.1,yes,490.723,2.089,n,n,1348,6.733333333,7.75,00:14:29,NA
+CAM041866,840,7,0.484,reared,hig_f1,Heliconius,erato,NA,male,no_deformed,00:07:31,00:15:31,00:08:00,40.2,yes,NA,NA,NA,NA,1348,8,7.516666667,00:15:31,NA
+CAM041867,844,7,0.53,reared,hig_f1,Heliconius,erato,NA,male,yes,00:07:40,00:15:18,00:07:38,40.5,yes,578.075,2.058,n,n,1348,7.633333333,7.666666667,00:15:18,NA
+CAM041869,846,7,0.49,reared,hig_f1,Heliconius,erato,NA,male,yes,00:05:35,00:16:12,00:10:37,40,yes,513.627,2.191,n,n,1348,10.61666667,5.583333333,00:16:12,NA
+CAM041873,832,7,0.431,reared,hig_f1,Heliconius,erato,NA,male,yes,00:06:32,00:16:34,00:10:02,39.9,yes,471.642,2.091,n,n,1348,10.03333333,6.533333333,00:16:34,NA
+CAM041879,853,7,0.515,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:25,00:18:12,00:11:47,39.8,yes,528.969,2.116,n,n,1348,11.78333333,6.416666667,00:18:12,NA
+CAM041880,860,7,0.526,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:12,00:15:50,00:09:38,40.3,yes,471.683,2.029,n,n,1348,9.633333333,6.2,00:15:50,NA
+CAM041882,857,7,0.53,reared,hig_f1,Heliconius,erato,NA,male,yes,00:06:52,00:15:43,00:08:51,40.1,yes,546.989,2.11,n,n,1348,8.85,6.866666667,00:15:43,NA
+CAM041883,858,7,0.526,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:35,00:16:33,00:09:58,39.8,yes,496.864,2.068,n,n,1348,9.966666667,6.583333333,00:16:33,NA
+CAM041884,859,7,0.476,reared,hig_f1,Heliconius,erato,NA,female,yes,00:07:15,00:16:52,00:09:37,39.9,yes,501.206,2.119,n,n,1348,9.616666667,7.25,00:16:52,NA
+CAM041885,865,7,0.491,reared,hig_f1,Heliconius,erato,NA,male,yes,00:05:45,00:16:18,00:10:33,40.3,yes,489.125,2.145,n,n,1348,10.55,5.75,00:16:18,NA
+CAM041886,866,7,0.462,reared,hig_f1,Heliconius,erato,NA,female,yes,00:05:21,00:15:24,00:10:03,40,yes,461.262,2.1,n,n,1348,10.05,5.35,00:15:24,NA
+CAM041888,870,7,0.57,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:12,00:17:28,00:11:16,40,yes,548.347,2.078,n,n,1348,11.26666667,6.2,00:17:28,NA
+CAM041890,873,7,0.497,reared,hig_f1,Heliconius,erato,NA,male,yes,00:05:43,00:16:19,00:10:36,40.1,yes,524.288,2.117,n,n,1348,10.6,5.716666667,00:16:19,NA
+CAM041896,886,7,0.442,reared,hig_f1,Heliconius,erato,NA,female,yes,00:05:53,00:17:39,00:11:46,40.1,yes,NA,NA,NA,NA,1348,11.76666667,5.883333333,00:17:39,NA
+CAM041897,891,7,0.428,reared,hig_f1,Heliconius,erato,NA,male,yes,00:05:28,00:16:23,00:10:55,39.8,yes,483.927,2.163,n,n,1348,10.91666667,5.466666667,00:16:23,NA
+CAM041898,895,7,0.497,reared,hig_f1,Heliconius,erato,NA,male,yes,00:07:32,00:16:36,00:09:04,40,yes,478.661,2.1,n,n,1348,9.066666667,7.533333333,00:16:36,NA
+CAM041899,890,7,0.429,reared,hig_f1,Heliconius,erato,NA,female,yes,00:07:52,00:15:48,00:07:56,40.1,yes,NA,NA,NA,NA,1348,7.933333333,7.866666667,00:15:48,NA
+CAM041903,893,7,0.434,reared,hig_f1,Heliconius,erato,NA,male,yes,00:05:48,00:16:27,00:10:39,39.7,yes,535.423,2.117,n,n,1348,10.65,5.8,00:16:27,NA
+CAM041904,889,7,0.443,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:56,00:16:14,00:09:18,40,yes,NA,NA,NA,NA,1348,9.3,6.933333333,00:16:14,NA
+CAM041599,15,8,0.523,reared,hig_f1,Heliconius,erato,lativitta,male,no,,,,NA,,NA,NA,,,1348,NA,NA,,
+CAM041606,10,8,0.489,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:11:59,00:19:26,00:07:27,40.5,yes,483.653,2.019,n,n,1348,7.45,11.98333333,00:19:26,Ikiam Mariposario
+CAM041609,29,8,0.526,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:11:52,00:15:44,00:03:52,41.1,yes,544.037,2.051,n,n,1348,3.866666667,11.86666667,00:15:44,Ikiam Mariposario
+CAM041616,66,8,0.458,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:04:15,00:09:46,00:05:31,40.5,yes,447.376,2.182,n,n,1348,5.516666667,4.25,00:09:46,Ikiam Mariposario
+CAM041624,44,8,0.508,reared,hig_f1,Heliconius,erato,lativitta,male,no,,,,NA,,NA,NA,,,1348,NA,NA,,
+CAM041625,51,8,0.513,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:10:10,00:15:27,00:05:17,40.2,yes,526.633,2.175,n,n,1348,5.283333333,10.16666667,00:15:27,Ikiam Mariposario
+CAM041629,100,8,0.542,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:09:50,00:28:18,00:18:28,41.2,yes,618.915,1.99,n,y,1348,18.46666667,9.833333333,00:28:18,Ikiam Mariposario
+CAM041632,154,8,0.526,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:11:37,00:12:16,00:00:39,39.4,yes,495.712,2.057,n,n,1348,0.65,11.61666667,00:12:16,Ikiam Mariposario
+CAM041634,116,8,0.504,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:12:06,00:17:49,00:05:43,39.8,yes,575.492,2.09,n,n,1348,5.716666667,12.1,00:17:49,Ikiam Mariposario
+CAM041644,143,8,0.576,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:16:25,00:19:34,00:03:09,41.5,yes,525.32,2.108,n,n,1348,3.15,16.41666667,00:19:34,Ikiam Mariposario
+CAM041647,208,8,0.576,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:15:48,00:17:58,00:02:10,39.4,yes,472.772,2.049,n,n,1348,2.166666667,15.8,00:17:58,Ikiam Mariposario
+CAM041648,210,8,0.596,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:15:31,00:18:59,00:03:28,39.2,yes,501.908,1.973,n,n,1348,3.466666667,15.51666667,00:18:59,Ikiam Mariposario
+CAM041652,187,8,0.572,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:14:30,00:15:44,00:01:14,40.1,yes,522.328,1.91,n,n,1348,1.233333333,14.5,00:15:44,Ikiam Mariposario
+CAM041656,235,8,0.576,reared,hig_f1,Heliconius,erato,lativitta,female,no,,,,NA,,NA,NA,,,1348,NA,NA,,
+CAM041663,246,8,0.5,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:08:11,00:09:03,00:00:52,39.4,yes,423.81,1.86,n,y,1348,0.866666667,8.183333333,00:09:03,Ikiam Mariposario
+CAM041664,252,8,0.517,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:08:13,00:10:48,00:02:35,39.6,yes,420.34,1.863,n,y,1348,2.583333333,8.216666667,00:10:48,Ikiam Mariposario
+CAM041669,247,8,0.549,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:03:14,00:15:12,00:11:58,40.1,yes,NA,NA,NA,NA,1348,11.96666667,3.233333333,00:15:12,Ikiam Mariposario
+CAM041672,270,8,0.565,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:05:55,00:14:51,00:08:56,40.1,yes,459.001,1.999,n,n,1348,8.933333333,5.916666667,00:14:51,Ikiam Mariposario
+CAM041677,271,8,0.532,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:07:25,00:22:20,00:14:55,39.8,yes,496.8,1.976,n,n,1348,14.91666667,7.416666667,00:22:20,Ikiam Mariposario
+CAM041682,283,8,0.524,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:09:30,00:11:50,00:02:20,39.9,yes,448.926,1.824,n,y,1348,2.333333333,9.5,00:11:50,Ikiam Mariposario
+CAM041603,21,10,0.505,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:15:24,00:20:18,00:04:54,40.6,yes,559.593,2.093,n,n,1348,4.9,15.4,00:20:18,Ikiam Mariposario
+CAM041607,19,10,0.527,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:13:45,00:14:52,00:01:07,39.4,yes,598.928,2.039,n,n,1348,1.116666667,13.75,00:14:52,Ikiam Mariposario
+CAM041608,26,10,0.516,reared,hig_f1,Heliconius,erato,lativitta,male,no,,,,NA,,NA,NA,,,1348,NA,NA,,
+CAM041610,32,10,0.501,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:11:25,00:17:12,00:05:47,39.7,yes,475.47,2.053,n,n,1348,5.783333333,11.41666667,00:17:12,Ikiam Mariposario
+CAM041618,31,10,0.52,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:17:13,00:21:40,00:04:27,40.1,yes,590.473,2.19,n,n,1348,4.45,17.21666667,00:21:40,Ikiam Mariposario
+CAM041665,258,14,0.545,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:07:17,00:24:00,00:16:43,40.6,yes,461.968,2.102,n,n,458,16.71666667,7.283333333,00:24:00,Ikiam Mariposario
+CAM041670,256,14,0.523,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:06:24,00:08:42,00:02:18,39.9,yes,423.738,2.162,n,n,458,2.3,6.4,00:08:42,Ikiam Mariposario
+CAM041674,285,14,0.521,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:07:31,00:11:25,00:03:54,39.9,yes,381.699,2.023,n,y,458,3.9,7.516666667,00:11:25,Ikiam Mariposario
+CAM041683,295,14,0.551,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:09:18,00:19:48,00:10:30,40.7,yes,488.832,2.105,n,n,458,10.5,9.3,00:19:48,Ikiam Mariposario
+CAM041692,598,14,0.526,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:02:32,00:07:42,00:05:10,40.3,yes,532.808,2.082,n,n,458,5.166666667,2.533333333,00:07:42,Ikiam Mariposario
+CAM041697,688,14,0.513,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:04:43,00:10:24,00:05:41,41.8,yes,484.455,2.006,n,n,458,5.683333333,4.716666667,00:10:24,Ikiam Mariposario
+CAM041705,649,14,0.46,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:03:32,00:13:31,00:09:59,41.2,yes,450.935,2.08,n,n,458,9.983333333,3.533333333,00:13:31,Ikiam Mariposario
+CAM041709,648,14,0.49,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:06:01,00:14:06,00:08:05,40.9,yes,540.79,2.093,n,n,458,8.083333333,6.016666667,00:14:06,Ikiam Mariposario
+CAM041710,650,14,0.452,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:03:37,00:16:58,00:13:21,41.1,yes,469.766,2.082,n,n,458,13.35,3.616666667,00:16:58,Ikiam Mariposario
+CAM041716,661,14,0.523,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:04:22,00:13:02,00:08:40,41.9,yes,538.811,2.139,n,n,458,8.666666667,4.366666667,00:13:02,Ikiam Mariposario
+CAM041719,672,14,0.473,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:08:06,00:14:37,00:06:31,41.7,yes,451.675,2.2,n,n,458,6.516666667,8.1,00:14:37,Ikiam Mariposario
+CAM041722,659,14,0.515,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:02:01,00:10:42,00:08:41,41.7,yes,505.467,2.178,n,n,458,8.683333333,2.016666667,00:10:42,Ikiam Mariposario
+CAM041725,672,14,0.449,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:02:54,00:09:23,00:06:29,41.2,yes,466.618,2.192,n,n,600,6.483333333,2.9,00:09:23,Ikiam Mariposario
+CAM041727,687,14,0.484,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:03:02,00:18:23,00:15:21,41.4,yes,491.778,2.211,n,n,458,15.35,3.033333333,00:18:23,Ikiam Mariposario
+CAM041742,691,14,0.482,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:03:17,00:22:39,00:19:22,41.9,yes,472.106,2.188,n,n,458,19.36666667,3.283333333,00:22:39,Ikiam Mariposario
+CAM041743,692,14,0.499,reared,low_f1,Heliconius,erato,lativitta,female,no,,,,,,NA,NA,NA,NA,458,NA,NA,NA,Ikiam Mariposario
+CAM041744,693,14,0.478,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:04:53,00:13:56,00:09:03,41.1,yes,510.444,2.16,n,n,458,9.05,4.883333333,00:13:56,Ikiam Mariposario
+CAM041747,701,14,0.535,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:04:44,00:16:53,00:12:09,41.2,yes,557.375,2.209,n,n,458,12.15,4.733333333,00:16:53,Ikiam Mariposario
+CAM041753,707,14,0.481,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:03:11,00:16:44,00:13:33,41.2,yes,540.991,2.106,n,n,458,13.55,3.183333333,00:16:44,Ikiam Mariposario
+CAM041768,746,14,0.516,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:04:07,00:25:05,00:20:58,39.9,yes,466.41,2.253,n,n,458,20.96666667,4.116666667,00:25:05,Ikiam Mariposario
+CAM041769,718,14,0.474,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:02:59,00:19:57,00:16:58,41.8,yes,479.715,2.162,n,n,458,16.96666667,2.983333333,00:19:57,Ikiam Mariposario
+CAM041776,731,14,0.487,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:05:45,00:24:47,00:19:02,40.8,yes,482.949,2.046,n,n,458,19.03333333,5.75,00:24:47,Ikiam Mariposario
+CAM041777,732,14,0.472,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:05:40,00:21:12,00:15:32,40.8,yes,475.781,2.141,n,n,458,15.53333333,5.666666667,00:21:12,Ikiam Mariposario
+CAM041792,782,14,0.455,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:03:39,00:13:17,00:09:38,41.9,yes,475.514,2.084,n,n,458,9.633333333,3.65,00:13:17,Ikiam Mariposario
+CAM041615,50,16,0.547,reared,low_f1,Heliconius,erato,lativitta,male,no,,,,NA,,NA,NA,,,429,NA,NA,,
+CAM041645,198,16,0.545,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:17:30,00:19:44,00:02:14,40.2,yes,427.025,2.122,n,n,429,2.233333333,17.5,00:19:44,Ikiam Mariposario
+CAM041646,200,16,0.551,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:14:15,00:24:29,00:10:14,39.2,yes,486.068,2.282,n,y,429,10.23333333,14.25,00:24:29,Ikiam Mariposario
+CAM041653,219,16,0.567,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:18:04,00:22:11,00:04:07,40.6,yes,NA,NA,NA,NA,429,4.116666667,18.06666667,00:22:11,Ikiam Mariposario
+CAM041659,218,16,0.537,reared,low_f1,Heliconius,erato,lativitta,female,no_deformed,00:12:08,00:14:10,00:02:02,41.3,yes,NA,NA,NA,NA,429,2.033333333,12.13333333,00:14:10,Ikiam Mariposario
+CAM041667,273,16,0.497,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:04:02,00:07:42,00:03:40,41.2,yes,402.284,2.135,n,y,429,3.666666667,4.033333333,00:07:42,Ikiam Mariposario
+CAM041619,82,19,0.527,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:11:31,00:13:40,00:02:09,39.1,yes,510.051,2.085,n,n,600,2.15,11.51666667,00:13:40,Ikiam Mariposario
+CAM041622,55,19,0.471,reared,mid_f1,Heliconius,erato,lativitta,female,no,,,,NA,,NA,NA,,,600,NA,NA,,
+CAM041626,87,19,0.487,reared,mid_f1,Heliconius,erato,lativitta,male,yes,,00:11:49,00:00:00,38.3,yes,392.967,1.957,n,y,600,NA,NA,00:11:49,Ikiam Mariposario
+CAM041628,80,19,0.493,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:09:22,00:21:01,00:11:39,39.8,yes,NA,NA,NA,NA,600,11.65,9.366666667,00:21:01,Ikiam Mariposario
+CAM041631,114,19,0.515,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:11:50,00:13:27,00:01:37,40.5,yes,364.931,2.174,n,y,600,1.616666667,11.83333333,00:13:27,Ikiam Mariposario
+CAM041637,134,19,0.505,reared,mid_f1,Heliconius,erato,lativitta,male,yes,,00:04:54,00:00:00,38.9,yes,480.631,2.125,n,y,600,4.9,NA,00:04:54,Ikiam Mariposario
+CAM041638,137,19,0.503,reared,mid_f1,Heliconius,erato,lativitta,male,no_deformed,00:04:25,00:05:40,00:01:15,40.2,yes,NA,NA,NA,NA,600,1.25,4.416666667,00:05:40,Ikiam Mariposario
+CAM041642,157,19,0.539,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:08:42,00:18:50,00:10:08,41.3,yes,466.032,2.178,n,n,600,10.13333333,8.7,00:18:50,Ikiam Mariposario
+CAM041662,232,19,0.535,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:07:44,00:16:18,00:08:34,39.9,yes,442.039,2.018,n,n,600,8.566666667,7.733333333,00:16:18,Ikiam Mariposario
+CAM041676,241,19,0.521,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:08:28,00:10:08,00:01:40,40.6,yes,444.019,2.143,n,n,600,1.666666667,8.466666667,00:10:08,Ikiam Mariposario
+CAM041639,145,20,0.509,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:04:17,00:06:37,00:02:20,41.1,yes,536.86,2.181,n,n,429,2.333333333,4.283333333,00:06:37,Ikiam Mariposario
+CAM041641,138,20,0.565,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:09:29,00:19:45,00:10:16,40.5,yes,NA,NA,NA,NA,429,10.26666667,9.483333333,00:19:45,Ikiam Mariposario
+CAM041658,259,20,0.55,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:07:46,00:10:09,00:02:23,41.3,yes,NA,NA,NA,NA,429,2.383333333,7.766666667,00:10:09,Ikiam Mariposario
+CAM041684,316,20,0.517,reared,low_f1,Heliconius,erato,lativitta,female,no,,,,NA,,377.587,1.855,,,429,NA,NA,,
+CAM041691,586,20,0.528,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:05:58,00:10:13,00:04:15,40.3,yes,550.592,2.142,n,n,429,4.25,5.966666667,00:10:13,Ikiam Mariposario
+CAM041694,708,20,0.467,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:04:07,00:10:52,00:06:45,40,yes,478.535,2.141,n,n,429,6.75,4.116666667,00:10:52,Ikiam Mariposario
+CAM041698,618,20,0.522,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:03:38,00:18:23,00:14:45,41.1,yes,576.927,2.183,n,n,429,14.75,3.633333333,00:18:23,Ikiam Mariposario
+CAM041699,620,20,0.496,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:03:26,00:12:12,00:08:46,41,yes,563.019,2.119,n,n,429,8.766666667,3.433333333,00:12:12,Ikiam Mariposario
+CAM041706,651,20,0.504,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:03:36,00:12:53,00:09:17,41.1,yes,587.272,2.14,n,n,429,9.283333333,3.6,00:12:53,Ikiam Mariposario
+CAM041724,677,20,0.519,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:02:25,00:16:36,00:14:11,41.3,yes,517.343,2.16,n,n,429,14.18333333,2.416666667,00:16:36,Ikiam Mariposario
+CAM041728,673,20,0.459,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:03:28,00:15:12,00:11:44,41.3,yes,495.068,2.242,n,n,429,11.73333333,3.466666667,00:15:12,Ikiam Mariposario
+CAM041731,685,20,0.461,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:03:19,00:16:24,00:13:05,41.1,yes,543.248,2.12,n,n,429,13.08333333,3.316666667,00:16:24,Ikiam Mariposario
+CAM041736,694,20,0.492,reared,low_f1,Heliconius,erato,lativitta,-,no,,,,NA,,NA,NA,,,429,NA,NA,NA,Ikiam Mariposario
+CAM041739,674,20,0.483,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:06:01,00:18:13,00:12:12,41.9,yes,508.3,2.06,n,n,429,12.2,6.016666667,00:18:13,Ikiam Mariposario
+CAM041748,702,20,0.532,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:06:40,00:19:52,00:13:12,41.9,yes,497.369,2.203,n,n,429,13.2,6.666666667,00:19:52,Ikiam Mariposario
+CAM041749,703,20,0.507,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:04:23,00:15:39,00:11:16,41.3,yes,500.808,2.222,n,n,429,11.26666667,4.383333333,00:15:39,Ikiam Mariposario
+CAM041752,706,20,0.475,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:02:31,00:17:39,00:15:08,41.5,yes,495.286,2.164,n,n,429,15.13333333,2.516666667,00:17:39,Ikiam Mariposario
+CAM041758,719,20,0.461,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:04:07,00:07:48,00:03:41,39.8,yes,490.879,2.043,n,n,429,3.683333333,4.116666667,00:07:48,Ikiam Mariposario
+CAM041761,725,20,0.471,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:03:01,00:14:27,00:11:26,40.7,yes,445.07,1.964,n,n,429,11.43333333,3.016666667,00:14:27,Ikiam Mariposario
+CAM041763,734,20,0.495,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:02:06,00:11:51,00:09:45,41.6,yes,503.449,2.128,n,n,429,9.75,2.1,00:11:51,Ikiam Mariposario
+CAM041767,740,20,0.486,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:07:58,00:21:20,00:13:22,40.7,yes,456.568,2.066,n,n,429,13.36666667,7.966666667,00:21:20,Ikiam Mariposario
+CAM041780,740,20,0.476,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:06:23,00:23:18,00:16:55,41.8,yes,469.796,2.22,n,n,429,16.91666667,6.383333333,00:23:18,Ikiam Mariposario
+CAM041781,741,20,0.513,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:05:53,00:21:12,00:15:19,41.3,yes,535.735,2.109,n,n,429,15.31666667,5.883333333,00:21:12,Ikiam Mariposario
+CAM041786,750,20,0.46,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:03:19,00:19:18,00:15:59,41.7,yes,474.418,2.139,n,n,429,15.98333333,3.316666667,00:19:18,Ikiam Mariposario
+CAM041790,764,20,0.49,reared,low_f1,Heliconius,erato,lativitta,male,yes,00:06:54,00:19:59,00:13:05,40.9,yes,491.5,2.135,n,n,429,13.08333333,6.9,00:19:59,Ikiam Mariposario
+CAM041799,784,20,0.511,reared,low_f1,Heliconius,erato,lativitta,female,yes,00:05:26,00:10:28,00:05:02,40.2,yes,515.625,2.044,n,n,429,5.033333333,5.433333333,00:10:28,Ikiam Mariposario
+CAM041817,783,20,0.511,reared,low_f1,Heliconius,erato,NA,male,yes,00:07:36,00:13:06,00:05:30,39.9,yes,NA,NA,NA,NA,429,5.5,7.6,00:13:06,NA
+CAM041818,784,20,0.465,reared,low_f1,Heliconius,erato,NA,female,yes,00:07:52,00:20:23,00:12:31,40.9,yes,460.213,2.187,n,n,429,12.51666667,7.866666667,00:20:23,NA
+CAM041820,793,20,0.476,reared,low_f1,Heliconius,erato,NA,male,yes,00:06:15,00:21:08,00:14:53,40.9,yes,475.212,2.163,n,n,429,14.88333333,6.25,00:21:08,NA
+CAM041822,799,20,0.465,reared,low_f1,Heliconius,erato,NA,female,yes,00:06:32,00:18:28,00:11:56,40.7,yes,454.451,2.111,n,n,429,11.93333333,6.533333333,00:18:28,NA
+CAM041830,807,20,0.488,reared,low_f1,Heliconius,erato,NA,female,yes,00:06:12,00:15:21,00:09:09,40.3,yes,NA,NA,NA,NA,429,9.15,6.2,00:15:21,NA
+CAM041841,821,20,0.462,reared,low_f1,Heliconius,erato,NA,female,yes,00:06:54,00:09:15,00:02:21,40.3,yes,497.998,2.13,n,n,429,2.35,6.9,00:09:15,NA
+CAM041848,mother,20,0.445,wild,low,Heliconius,erato,lativitta,female,no,,,,NA,,NA,NA,y,y,429,NA,NA,,
+CAM041857,834,20,0.528,reared,low_f1,Heliconius,erato,NA,male,yes,00:07:28,00:19:21,00:11:53,40.6,yes,532.479,2.15,n,n,429,11.88333333,7.466666667,00:19:21,NA
+CAM041859,821,20,0.496,reared,low_f1,Heliconius,erato,NA,female,yes,00:06:35,00:17:29,00:10:54,40.5,yes,445.367,2.065,n,n,429,10.9,6.583333333,00:17:29,NA
+CAM041861,843,20,0.499,reared,low_f1,Heliconius,erato,NA,male,yes,00:06:43,00:17:38,00:10:55,40.3,yes,498.808,2.237,n,n,429,10.91666667,6.716666667,00:17:38,NA
+CAM041868,845,20,0.455,reared,low_f1,Heliconius,erato,NA,female,yes,00:05:28,00:18:25,00:12:57,40.9,yes,440.295,2.201,n,n,429,12.95,5.466666667,00:18:25,NA
+CAM041875,851,20,0.435,reared,low_f1,Heliconius,erato,NA,female,yes,00:05:48,00:21:43,00:15:55,40.9,yes,459.355,2.125,n,n,429,15.91666667,5.8,00:21:43,NA
+CAM041876,852,20,0.428,reared,low_f1,Heliconius,erato,NA,male,yes,00:05:17,00:23:08,00:17:51,40.5,yes,527.729,2.118,n,n,429,17.85,5.283333333,00:23:08,NA
+CAM041878,855,20,0.491,reared,low_f1,Heliconius,erato,NA,female,yes,00:06:53,00:21:13,00:14:20,40.07,yes,481.965,2.089,n,n,429,14.33333333,6.883333333,00:21:13,NA
+CAM041881,867,20,0.523,reared,low_f1,Heliconius,erato,NA,female,yes,00:05:53,00:18:26,00:12:33,40.5,yes,507.671,2.15,n,n,429,12.55,5.883333333,00:18:26,NA
+CAM041893,879,20,0.405,reared,low_f1,Heliconius,erato,NA,male,yes,00:05:48,00:15:32,00:09:44,39.7,yes,NA,NA,NA,NA,429,9.733333333,5.8,00:15:32,NA
+CAM041649,211,21,0.523,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:03:23,00:03:58,00:00:35,41,yes,433.456,2.173,n,n,600,0.583333333,3.383333333,00:03:58,Ikiam Mariposario
+CAM041651,229,21,0.559,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:05:07,00:07:22,00:02:15,40.2,yes,485.737,1.975,n,n,600,2.25,5.116666667,00:07:22,Ikiam Mariposario
+CAM041657,242,21,0.523,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:01:54,00:02:45,00:00:51,40.1,yes,393.921,2.183,n,y,600,0.85,1.9,00:02:45,Ikiam Mariposario
+CAM041661,263,21,0.542,reared,mid_f1,Heliconius,erato,lativitta,female,no,,,,NA,,NA,NA,,,600,NA,NA,,
+CAM041673,278,21,0.54,reared,mid_f1,Heliconius,erato,lativitta,female,no_deformed,00:01:54,00:25:41,00:23:47,40.6,yes,NA,NA,NA,NA,600,23.78333333,1.9,00:25:41,Ikiam Mariposario
+CAM041675,303,21,0.539,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:00:37,00:07:20,00:06:43,41.1,yes,391.566,2.085,n,n,600,6.716666667,0.616666667,00:07:20,Ikiam Mariposario
+CAM041695,624,21,0.496,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:04:12,00:08:17,00:04:05,40.1,yes,493.877,2.059,n,n,600,4.083333333,4.2,00:08:17,Ikiam Mariposario
+CAM041696,622,21,0.476,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:05:06,00:09:17,00:04:11,40.6,yes,486.698,2.094,n,n,600,4.183333333,5.1,00:09:17,Ikiam Mariposario
+CAM041701,632,21,0.473,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:04:33,00:12:31,00:07:58,40.3,yes,487.855,2.091,n,n,600,7.966666667,4.55,00:12:31,Ikiam Mariposario
+CAM041702,633,21,0.492,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:04:34,00:12:18,00:07:44,40.5,yes,510.181,2.212,n,n,600,7.733333333,4.566666667,00:12:18,Ikiam Mariposario
+CAM041711,666,21,0.508,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:04:42,00:17:02,00:12:20,41.3,yes,517.1,2.173,n,n,600,12.33333333,4.7,00:17:02,Ikiam Mariposario
+CAM041717,667,21,0.497,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:05:02,00:08:10,00:03:08,41,yes,493.994,1.953,n,n,600,3.133333333,5.033333333,00:08:10,Ikiam Mariposario
+CAM041720,678,21,0.463,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:04:35,00:10:30,00:05:55,41.2,yes,464.818,2.153,n,n,600,5.916666667,4.583333333,00:10:30,Ikiam Mariposario
+CAM041723,665,21,0.514,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:02:21,00:08:35,00:06:14,41.6,yes,518.321,2.126,n,n,600,6.233333333,2.35,00:08:35,Ikiam Mariposario
+CAM041729,682,21,0.461,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:02:53,00:10:52,00:07:59,40.1,yes,471.368,2.116,n,n,600,7.983333333,2.883333333,00:10:52,Ikiam Mariposario
+CAM041730,683,21,0.476,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:04:15,00:12:23,00:08:08,40.2,yes,531.906,2.15,n,n,600,8.133333333,4.25,00:12:23,Ikiam Mariposario
+CAM041755,711,21,0.464,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:04:58,00:19:06,00:14:08,40.5,yes,498.035,2.143,n,n,600,14.13333333,4.966666667,00:19:06,Ikiam Mariposario
+CAM041756,712,21,0.451,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:03:17,00:12:11,00:08:54,40.2,yes,427.828,2.104,n,n,600,8.9,3.283333333,00:12:11,Ikiam Mariposario
+CAM041782,742,21,0.479,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:07:57,00:15:03,00:07:06,40.7,yes,475.056,2.151,n,n,600,7.1,7.95,00:15:03,Ikiam Mariposario
+CAM041791,767,21,0.499,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:06:58,00:15:12,00:08:14,41.2,yes,500.92,2.042,n,n,600,8.233333333,6.966666667,00:15:12,Ikiam Mariposario
+CAM041802,880,21,0.397,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:05:12,00:16:34,00:11:22,39.9,yes,425.61,2.162,n,n,600,11.36666667,5.2,00:16:34,Ikiam Mariposario
+CAM041666,264,22,0.528,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:03:36,00:10:15,00:06:39,39,yes,404.924,2.115,n,n,1120,6.65,3.6,00:10:15,Ikiam Mariposario
+CAM041679,291,22,0.512,reared,hig_f1,Heliconius,erato,lativitta,male,yes,00:09:00,00:18:08,00:09:08,39.5,yes,426.59,2.078,n,n,1120,9.133333333,9,00:18:08,Ikiam Mariposario
+CAM041690,709,22,0.483,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:05:49,00:09:48,00:03:59,40.2,yes,505.478,2.074,n,n,1120,3.983333333,5.816666667,00:09:48,Ikiam Mariposario
+CAM041693,642,22,0.574,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:03:43,00:11:08,00:07:25,41,yes,434.874,2.053,n,n,1120,7.416666667,3.716666667,00:11:08,Ikiam Mariposario
+CAM041703,637,24,0.464,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:04:31,00:11:25,00:06:54,40.5,yes,481.752,2.089,n,n,600,6.9,4.516666667,00:11:25,Ikiam Mariposario
+CAM041721,698,24,0.482,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:05:06,00:09:22,00:04:16,40.8,yes,479.417,2.144,n,n,600,4.266666667,5.1,00:09:22,Ikiam Mariposario
+CAM041732,695,24,0.424,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:03:50,00:12:31,00:08:41,40.3,yes,412.372,2.219,n,y,600,8.683333333,3.833333333,00:12:31,Ikiam Mariposario
+CAM041733,752,24,0.464,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:03:28,00:11:18,00:07:50,40.4,yes,369.153,1.923,n,y,600,7.833333333,3.466666667,00:11:18,Ikiam Mariposario
+CAM041735,686,24,0.484,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:04:40,00:09:38,00:04:58,40.1,yes,474.253,2.086,n,y,600,4.966666667,4.666666667,00:09:38,Ikiam Mariposario
+CAM041737,696,24,0.493,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:06:31,00:10:35,00:04:04,40.2,yes,466.73,2.249,n,n,600,4.066666667,6.516666667,00:10:35,Ikiam Mariposario
+CAM041738,697,24,0.481,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:06:23,00:16:02,00:09:39,41.6,yes,479.003,2.192,n,n,600,9.65,6.383333333,00:16:02,Ikiam Mariposario
+CAM041740,704,24,0.486,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:06:11,00:15:29,00:09:18,41.8,yes,460.306,2.128,n,n,600,9.3,6.183333333,00:15:29,Ikiam Mariposario
+CAM041750,715,24,0.498,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:06:14,00:14:38,00:08:24,41.4,yes,509.62,2.087,n,n,600,8.4,6.233333333,00:14:38,Ikiam Mariposario
+CAM041757,717,24,0.448,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:05:48,00:16:12,00:10:24,41.6,yes,466.286,2.148,n,y,600,10.4,5.8,00:16:12,Ikiam Mariposario
+CAM041759,720,24,0.475,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:06:31,00:16:28,00:09:57,41.8,yes,462.466,2.124,n,n,600,9.95,6.516666667,00:16:28,Ikiam Mariposario
+CAM041764,735,24,0.502,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:03:59,00:14:32,00:10:33,41.3,yes,479.431,2.22,n,n,600,10.55,3.983333333,00:14:32,Ikiam Mariposario
+CAM041765,728,24,0.48,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:07:51,00:17:05,00:09:14,40.3,yes,386.91,2.154,n,n,600,9.233333333,7.85,00:17:05,Ikiam Mariposario
+CAM041766,736,24,0.493,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:07:25,00:26:37,00:19:12,40.3,yes,448.771,2.127,n,n,600,19.2,7.416666667,00:26:37,Ikiam Mariposario
+CAM041771,722,24,0.454,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:05:59,00:20:18,00:14:19,41.7,yes,499.266,2.167,n,n,600,14.31666667,5.983333333,00:20:18,Ikiam Mariposario
+CAM041774,747,24,0.448,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:05:18,00:18:10,00:12:52,41.2,yes,412.996,2.094,n,n,600,12.86666667,5.3,00:18:10,Ikiam Mariposario
+CAM041783,743,24,0.466,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:05:28,00:16:18,00:10:50,40.5,yes,453.624,2.055,n,n,600,10.83333333,5.466666667,00:16:18,Ikiam Mariposario
+CAM041784,744,24,0.469,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:05:15,00:15:23,00:10:08,40.9,yes,437.358,2.224,n,n,600,10.13333333,5.25,00:15:23,Ikiam Mariposario
+CAM041785,745,24,0.478,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:04:02,00:15:19,00:11:17,40.3,yes,NA,NA,NA,NA,600,11.28333333,4.033333333,00:15:19,Ikiam Mariposario
+CAM041787,751,24,0.455,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:05:02,00:18:36,00:13:34,40.2,yes,420.019,2.216,n,n,600,13.56666667,5.033333333,00:18:36,Ikiam Mariposario
+CAM041789,758,24,0.444,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:07:45,00:10:57,00:03:12,41.1,yes,374.122,2.122,n,y,600,3.2,7.75,00:10:57,Ikiam Mariposario
+CAM041795,762,24,0.496,reared,mid_f1,Heliconius,erato,lativitta,male,yes,00:04:20,00:11:21,00:07:01,39.8,yes,470.135,2.19,n,n,600,7.016666667,4.333333333,00:11:21,Ikiam Mariposario
+CAM041801,766,24,0.465,reared,mid_f1,Heliconius,erato,lativitta,female,yes,00:05:33,00:13:44,00:08:11,40.4,yes,450.9,2.06,n,n,600,8.183333333,5.55,00:13:44,Ikiam Mariposario
+CAM041807,775,24,0.482,reared,mid_f1,Heliconius,erato,NA,female,yes,00:05:23,00:18:36,00:13:13,40.1,yes,496.547,1.933,n,n,600,13.21666667,5.383333333,00:18:36,NA
+CAM041808,777,24,0.479,reared,mid_f1,Heliconius,erato,NA,male,yes,00:07:48,00:19:07,00:11:19,40.6,yes,465.585,2.232,n,n,600,11.31666667,7.8,00:19:07,NA
+CAM041812,778,24,0.479,reared,mid_f1,Heliconius,erato,NA,male,yes,00:07:23,00:18:52,00:11:29,40.5,yes,472.851,2.252,n,n,600,11.48333333,7.383333333,00:18:52,NA
+CAM041813,779,24,0.454,reared,mid_f1,Heliconius,erato,NA,female,yes,00:06:02,00:19:25,00:13:23,40.3,yes,424.469,2.185,n,n,600,13.38333333,6.033333333,00:19:25,NA
+CAM041815,785,24,0.493,reared,mid_f1,Heliconius,erato,NA,female,yes,00:05:46,00:20:05,00:14:19,40.6,yes,448.289,2.052,n,n,600,14.31666667,5.766666667,00:20:05,NA
+CAM041823,800,24,0.458,reared,mid_f1,Heliconius,erato,NA,male,yes,00:05:48,00:16:35,00:10:47,39.8,yes,465.509,2.184,n,n,600,10.78333333,5.8,00:16:35,NA
+CAM041824,806,24,0.434,reared,mid_f1,Heliconius,erato,NA,male,yes,00:06:23,00:16:54,00:10:31,40.3,yes,408.22,2.147,n,n,600,10.51666667,6.383333333,00:16:54,NA
+CAM041826,810,24,0.493,reared,mid_f1,Heliconius,erato,NA,male,yes,00:07:09,00:16:34,00:09:25,40.3,yes,465.872,2.129,n,n,600,9.416666667,7.15,00:16:34,NA
+CAM041827,805,24,0.471,reared,mid_f1,Heliconius,erato,NA,male,yes,00:06:21,00:17:04,00:10:43,40.5,yes,424.455,2.081,n,n,600,10.71666667,6.35,00:17:04,NA
+CAM041831,814,24,0.504,reared,mid_f1,Heliconius,erato,lativitta,female,no,,,,NA,,NA,NA,,,600,NA,NA,NA,Ikiam Mariposario
+CAM041832,815,24,0.475,reared,mid_f1,Heliconius,erato,lativitta,female,no,,,,NA,,NA,NA,,,600,NA,NA,NA,Ikiam Mariposario
+CAM041842,829,24,0.463,reared,mid_f1,Heliconius,erato,NA,female,yes,00:07:30,00:18:32,00:11:02,40.9,yes,481.149,2.12,n,n,600,11.03333333,7.5,00:18:32,NA
+CAM041843,856,24,0.457,reared,mid_f1,Heliconius,erato,NA,female,yes,00:07:35,00:17:30,00:09:55,40.6,yes,416.274,2.092,n,n,600,9.916666667,7.583333333,00:17:30,NA
+CAM041846,822,24,0.5,reared,mid_f1,Heliconius,erato,NA,female,yes,00:07:40,00:22:45,00:15:05,41,yes,454.42,2.217,n,n,600,15.08333333,7.666666667,00:22:45,NA
+CAM041847,830,24,0.501,reared,mid_f1,Heliconius,erato,NA,male,yes,00:07:54,00:23:11,00:15:17,40,yes,481.56,2.195,n,n,600,15.28333333,7.9,00:23:11,NA
+CAM041852,827,24,0.499,reared,mid_f1,Heliconius,erato,NA,male,yes,00:06:28,00:17:39,00:11:11,40.2,yes,515.095,2.137,n,n,600,11.18333333,6.466666667,00:17:39,NA
+CAM041853,835,24,0.491,reared,mid_f1,Heliconius,erato,NA,female,yes,00:06:52,00:19:07,00:12:15,40.3,yes,436.295,2.162,n,n,600,12.25,6.866666667,00:19:07,NA
+CAM041856,826,24,0.527,reared,mid_f1,Heliconius,erato,lativitta,male,no,,,,NA,,NA,NA,,,600,NA,NA,NA,Ikiam Mariposario
+CAM041860,836,24,0.481,reared,mid_f1,Heliconius,erato,lativitta,male,no,,,,NA,,NA,NA,,,600,NA,NA,NA,Ikiam Mariposario
+CAM041863,837,24,0.473,reared,mid_f1,Heliconius,erato,NA,female,yes,00:06:12,00:16:32,00:10:20,40,yes,467.304,2.057,n,n,600,10.33333333,6.2,00:16:32,NA
+CAM041864,838,24,0.488,reared,mid_f1,Heliconius,erato,NA,female,yes,00:06:52,00:16:18,00:09:26,40.2,yes,479.765,1.995,n,n,600,9.433333333,6.866666667,00:16:18,NA
+CAM041870,847,24,0.465,reared,mid_f1,Heliconius,erato,NA,female,yes,00:05:19,00:18:35,00:13:16,40.3,yes,458.166,2.181,n,n,600,13.26666667,5.316666667,00:18:35,NA
+CAM041871,849,24,0.491,reared,mid_f1,Heliconius,erato,NA,male,yes,00:06:31,00:18:52,00:12:21,40.6,yes,501.892,2.151,n,n,600,12.35,6.516666667,00:18:52,NA
+CAM041872,869,24,0.477,reared,mid_f1,Heliconius,erato,NA,male,yes,00:06:24,00:19:23,00:12:59,40.5,yes,432.899,2.106,n,n,600,12.98333333,6.4,00:19:23,NA
+CAM041874,848,24,0.43,reared,mid_f1,Heliconius,erato,NA,male,yes,00:05:52,00:20:51,00:14:59,40.8,yes,461.713,2.157,n,n,600,14.98333333,5.866666667,00:20:51,NA
+CAM041877,864,24,0.404,reared,mid_f1,Heliconius,erato,NA,male,yes,00:06:21,00:19:14,00:12:53,40.3,yes,467.364,2.077,n,n,600,12.88333333,6.35,00:19:14,NA
+CAM041887,869,24,0.452,reared,mid_f1,Heliconius,erato,NA,female,yes,00:05:19,00:17:51,00:12:32,40.2,yes,NA,NA,NA,NA,600,12.53333333,5.316666667,00:17:51,NA
+CAM041889,872,24,0.436,reared,mid_f1,Heliconius,erato,NA,male,yes,00:06:28,00:18:23,00:11:55,40,yes,489.332,2.238,n,n,600,11.91666667,6.466666667,00:18:23,NA
+CAM041892,868,24,0.436,reared,mid_f1,Heliconius,erato,NA,female,yes,00:05:51,00:18:14,00:12:23,40.2,yes,430.44,2.131,n,n,600,12.38333333,5.85,00:18:14,NA
+CAM041894,905,24,0.409,reared,mid_f1,Heliconius,erato,NA,female,yes,00:05:37,00:17:49,00:12:12,39.9,yes,426.039,2.205,n,n,600,12.2,5.616666667,00:17:49,NA
+CAM041895,913,24,0.415,reared,mid_f1,Heliconius,erato,NA,female,yes,00:06:31,00:18:15,00:11:44,40.3,yes,NA,NA,NA,NA,600,11.73333333,6.516666667,00:18:15,NA
+CAM041900,894,24,0.406,reared,mid_f1,Heliconius,erato,NA,male,yes,00:07:23,00:19:03,00:11:40,40.3,yes,485.239,2.207,n,n,600,11.66666667,7.383333333,00:19:03,NA
+CAM041901,897,24,0.494,reared,mid_f1,Heliconius,erato,NA,female,yes,00:06:15,00:19:15,00:13:00,40.3,yes,NA,NA,NA,NA,600,13,6.25,00:19:15,NA
+CAM041905,910,24,0.422,reared,mid_f1,Heliconius,erato,NA,male,yes,00:06:29,00:18:53,00:12:24,40.4,yes,452.413,2.265,n,n,600,12.4,6.483333333,00:18:53,NA
+CAM041907,904,24,0.403,reared,mid_f1,Heliconius,erato,NA,male,yes,00:07:15,00:19:15,00:12:00,40,yes,449.418,2.256,n,n,600,12,7.25,00:19:15,NA
+CAM041912,929,24,0.438,reared,mid_f1,Heliconius,erato,NA,female,yes,00:05:48,00:18:13,00:12:25,40.5,yes,452.316,2.191,n,n,600,12.41666667,5.8,00:18:13,NA
+CAM041902,898,25,0.408,reared,hig_f1,Heliconius,erato,NA,female,yes,00:06:03,00:16:54,00:10:51,39.8,yes,489.691,2.197,n,n,1600,10.85,6.05,00:16:54,NA
+CAM041906,917,25,0.432,reared,hig_f1,Heliconius,erato,lativitta,female,no,,,,NA,,NA,NA,,,1600,NA,NA,,
+CAM041908,926,25,0.455,reared,hig_f1,Heliconius,erato,NA,female,yes,00:05:58,00:15:22,00:09:24,40.3,yes,NA,NA,NA,NA,1600,9.4,5.966666667,00:15:22,NA
+CAM041910,915,25,0.444,reared,hig_f1,Heliconius,erato,lativitta,male,no,,,,NA,,NA,NA,,,1600,NA,NA,,
+CAM041834,mother,26,0.415,wild,hig_hybrid,Heliconius,erato,lativitta,female,no,,,,NA,,461.428,2.328,,,1600,NA,NA,,
+CAM041854,mother,27,0.368,wild,hig,Heliconius,erato,lativitta,female,no,,,,NA,,NA,NA,,,1600,NA,NA,,
+CAM041909,909,27,0.467,reared,hig_f1,Heliconius,erato,NA,male,yes,00:06:43,00:15:35,00:08:52,40,yes,503.944,2.203,n,n,1600,8.866666667,6.716666667,00:15:35,NA
+CAM041911,920,27,0.43,reared,hig_f1,Heliconius,erato,NA,female,yes,00:07:02,00:16:28,00:09:26,40.3,yes,NA,NA,NA,NA,1600,9.433333333,7.033333333,00:16:28,NA
+CAM041775,759a,20?,0.495,reared,,Heliconius,erato,lativitta,female,yes,00:07:45,00:11:14,00:03:29,40.3,yes,516.438,2.177,n,n,429,3.483333333,7.75,00:11:14,Ikiam Mariposario
+CAM041797,759b,20?,0.46,reared,,Heliconius,erato,lativitta,male,yes,00:07:33,00:29:12,00:21:39,40.9,yes,488.096,2.094,n,n,NA,21.65,7.55,00:29:12,Ikiam Mariposario
+CAM041598,46,ba_os mother,NA,reared,hig_f1,Heliconius,erato,lativitta,female,yes,00:07:24,00:13:54,00:06:30,40.2,yes,496.456,2.148,n,n,1600,6.5,7.4,00:13:54,Ikiam Mariposario
+CAM041613,47,ba_os mother,0.497,reared,hig_f1,Heliconius,erato,lativitta,male,no,,,,NA,,NA,NA,,,1600,NA,NA,,
+CAM041127,,,NA,wild,low,Heliconius,sara,,female,no,00:03:00,,,NA,yes,403.25,2.291,n,n,440,NA,NA,,
+CAM041129,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:02:17,00:13:28,00:11:11,39,yes,534.392,2.064,n,n,440,11.18333333,2.283333333,00:13:28,Road to Shalcana
+CAM041131,,,NA,wild,low,Heliconius,wallacei,flavescens,female,yes,00:10:50,00:55:00,00:44:10,39.3,yes,522.859,2.113,n,n,448,44.16666667,10.83333333,00:55:00,Road to Shalcana 2
+CAM041132,,,NA,wild,low,Heliconius,wallacei,flavescens,male,yes,00:15:00,00:52:20,00:37:20,39.8,yes,425.815,2.168,y,n,392,37.33333333,15,00:52:20,San Pedro de Arajuno
+CAM041134,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:10:20,00:37:57,00:27:37,43.1,yes,433.167,2.126,y,n,392,27.61666667,10.33333333,00:37:57,San Pedro de Arajuno
+CAM041135,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:11:00,00:40:04,00:29:04,39.9,yes,560.791,2.143,n,n,392,29.06666667,11,00:40:04,San Pedro de Arajuno
+CAM041137,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,,00:17:03,00:00:00,37,yes,519.027,2.145,n,n,458,17.05,NA,00:17:03,Limoncocha - El Carmen 1
+CAM041138,,,NA,wild,low,Heliconius,elevatus,willmotti,male,yes,,00:11:40,00:00:00,38.9,yes,556.619,1.977,y,n,458,11.66666667,NA,00:11:40,Limoncocha - El Carmen 1
+CAM041139,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,,00:12:40,00:00:00,37.9,yes,546.194,2.147,n,n,458,12.66666667,NA,00:12:40,Limoncocha - El Carmen 1
+CAM041141,,,NA,wild,low,Heliconius,erato,lattivita,male,no,00:06:10,00:08:40,00:02:30,41.7,yes,528.807,2.144,y,n,410,NA,NA,,
+CAM041142,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:07:43,00:17:05,00:09:22,39.7,yes,417.885,2.147,y,n,410,9.366666667,7.716666667,00:17:05,"Jatun Satcha, jardin botanico"
+CAM041143,,,NA,wild,low,Heliconius,erato,lattivita,male,yes,00:07:00,00:12:40,00:05:40,39.7,yes,540.196,2.067,n,n,458,NA,NA,,
+CAM041144,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:05:40,00:29:00,00:23:20,42.1,yes,454.155,2.026,n,n,458,23.33333333,5.666666667,00:29:00,Limoncocha - El Carmen 1
+CAM041145,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:03:00,00:07:18,00:04:18,39.5,yes,551.167,2.053,n,n,458,4.3,3,00:07:18,Limoncocha - El Carmen 1
+CAM041146,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:08:50,00:10:40,00:01:50,40.1,yes,589.389,2.083,y,n,458,1.833333333,8.833333333,00:10:40,Limoncocha - El Carmen 1
+CAM041147,,,NA,wild,low,Heliconius,timareta,ssp. no.,male,yes,00:08:00,00:14:20,00:06:20,40.1,yes,577.044,2.017,n,n,458,6.333333333,8,00:14:20,Limoncocha - El Carmen 1
+CAM041148,,,NA,wild,low,Heliconius,erato,lativitta,female,yes,00:26:30,00:53:20,00:26:50,39.8,yes,410.68,2.042,n,n,458,26.83333333,26.5,00:53:20,Limoncocha - El Carmen 1
+CAM041149,,,NA,wild,low,Heliconius,elevatus,willmotti,female,yes,00:18:00,00:24:00,00:06:00,39.9,yes,624.642,2.048,y,n,458,6,18,00:24:00,Limoncocha - El Carmen 1
+CAM041150,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:12:55,00:30:00,00:17:05,39.6,yes,457.841,2.116,y,n,440,17.08333333,12.91666667,00:30:00,Road to Shalcana
+CAM041151,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:17:34,00:33:06,00:15:32,39.1,yes,415.163,2.148,n,n,440,15.53333333,17.56666667,00:33:06,Road to Shalcana
+CAM041152,,,NA,wild,low,Heliconius,wallacei,flavescens,male,yes,00:06:20,00:06:40,00:00:20,39.4,yes,584.592,2.053,y,n,440,0.333333333,6.333333333,00:06:40,Road to Shalcana
+CAM041153,,,NA,wild,low,Heliconius,erato,lativitta,female,yes,00:12:55,00:52:20,00:39:25,40.6,yes,478.357,2.116,n,n,410,39.41666667,12.91666667,00:52:20,"Jatun Satcha, jardin botanico"
+CAM041154,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:12:10,00:44:00,00:31:50,40.3,yes,529.091,2.073,n,n,392,31.83333333,12.16666667,00:44:00,San Pedro de Arajuno
+CAM041155,,,NA,wild,low,Heliconius,erato,lattivita,male,no,,,,NA,yes,492.377,2.082,,,429,NA,NA,,
+CAM041156,,,NA,wild,low,Neruda,aoede,,male,yes,00:09:30,00:25:30,00:16:00,40.6,yes,572.091,1.985,n,n,429,16,9.5,00:25:30,Limoncocha - El Carmen 2
+CAM041157,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:08:10,00:42:00,00:33:50,41.6,yes,551.197,2.149,y,n,429,33.83333333,8.166666667,00:42:00,Limoncocha - El Carmen 2
+CAM041158,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:08:00,00:37:40,00:29:40,41.2,yes,440.83,2.232,n,n,429,29.66666667,8,00:37:40,Limoncocha - El Carmen 2
+CAM041159,,,NA,wild,low,Heliconius,melpomene,malleti,male,yes,,00:05:27,00:00:00,37.4,yes,574.911,2.041,y,n,429,5.45,NA,00:05:27,Limoncocha - El Carmen 2
+CAM041161,,,NA,wild,low,Heliconius,sara,,female,no,00:09:43,,,39.7,yes,507.177,2.239,,,458,NA,NA,,
+CAM041162,,,NA,wild,low,Heliconius,demeter,,male,yes,00:10:50,00:30:01,00:19:11,40.4,yes,620.916,2.29,n,n,458,19.18333333,10.83333333,00:30:01,Limoncocha - El Carmen 1
+CAM041163,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:09:43,00:12:00,00:02:17,40.7,yes,547.279,2.176,n,n,458,2.283333333,9.716666667,00:12:00,Limoncocha - El Carmen 1
+CAM041164,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:09:43,00:13:00,00:03:17,40.3,yes,448.626,2.16,y,n,458,3.283333333,9.716666667,00:13:00,Limoncocha - El Carmen 1
+CAM041165,,,NA,wild,low,Neruda,aoede,,male,yes,00:10:50,00:29:30,00:18:40,41,yes,584.633,1.944,y,n,458,18.66666667,10.83333333,00:29:30,Limoncocha - El Carmen 1
+CAM041166,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:05:00,00:08:20,00:03:20,40,yes,560.947,2.134,y,n,458,3.333333333,5,00:08:20,Limoncocha - El Carmen 1
+CAM041167,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:10:00,00:24:00,00:14:00,40.7,yes,567.338,2.074,n,n,458,14,10,00:24:00,Limoncocha - El Carmen 1
+CAM041168,,,NA,wild,low,Heliconius,melpomene,malleti,male,yes,00:03:30,00:17:00,00:13:30,40.1,yes,547.579,2.091,n,n,458,13.5,3.5,00:17:00,Limoncocha - El Carmen 1
+CAM041169,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:03:25,00:05:18,00:01:53,40.5,yes,615.325,2.115,n,n,458,1.883333333,3.416666667,00:05:18,Limoncocha - El Carmen 1
+CAM041170,,,NA,wild,low,Neruda,aoede,,male,yes,00:06:30,00:46:40,00:40:10,40,yes,458.294,1.967,n,n,458,40.16666667,6.5,00:46:40,Limoncocha - El Carmen 1
+CAM041171,,,NA,wild,low,Neruda,aoede,,male,yes,00:07:00,01:02:30,00:55:30,39.5,yes,616.956,1.931,n,n,458,55.5,7,01:02:30,Limoncocha - El Carmen 1
+CAM041173,,,NA,wild,low,Neruda,aoede,,male,yes,00:06:40,00:32:10,00:25:30,40.1,yes,485.658,1.982,n,n,458,25.5,6.666666667,00:32:10,Limoncocha - El Carmen 1
+CAM041174,,,NA,wild,low,Heliconius,elevatus,willmotti,male,yes,00:10:00,00:41:00,00:31:00,39.8,yes,633.182,2.062,n,n,458,31,10,00:41:00,Limoncocha - El Carmen 1
+CAM041175,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:11:00,00:13:44,00:02:44,40.5,yes,395.277,2.155,n,n,458,2.733333333,11,00:13:44,Limoncocha - El Carmen 1
+CAM041176,,,NA,wild,low,Heliconius,melpomene,malleti,male,yes,00:04:40,00:10:17,00:05:37,40.4,yes,535.008,2.005,n,n,458,5.616666667,4.666666667,00:10:17,Limoncocha - El Carmen 1
+CAM041177,,,NA,wild,low,Heliconius,timareta,ssp. no.,male,yes,00:01:00,00:26:40,00:25:40,39.7,yes,545.722,1.912,y,n,458,25.66666667,1,00:26:40,Limoncocha - El Carmen 1
+CAM041179,,,NA,wild,low,Heliconius,timareta,ssp. no.,male,yes,00:06:30,00:21:24,00:14:54,40.6,yes,545.157,2.092,n,n,458,14.9,6.5,00:21:24,Limoncocha - El Carmen 1
+CAM041180,,,NA,wild,low,Heliconius,timareta,ssp. no.,male,yes,00:06:00,00:15:00,00:09:00,40.8,yes,631.33,2.032,n,n,458,9,6,00:15:00,Limoncocha - El Carmen 1
+CAM041181,,,NA,wild,low,Heliconius,timareta,ssp. no.,male,yes,00:08:30,00:18:00,00:09:30,41,yes,652.376,1.992,n,n,458,9.5,8.5,00:18:00,Limoncocha - El Carmen 1
+CAM041182,,,NA,wild,low,Heliconius,elevatus,willmotti,male,yes,00:09:20,00:32:00,00:22:40,40.8,yes,591.058,2.107,y,n,458,22.66666667,9.333333333,00:32:00,Limoncocha - El Carmen 1
+CAM041183,,,NA,wild,low,Heliconius,elevatus,willmotti,male,yes,00:09:00,00:23:00,00:14:00,40.1,yes,480.367,2.113,y,n,458,14,9,00:23:00,Limoncocha - El Carmen 1
+CAM041184,,,NA,wild,low,Heliconius,timareta,ssp. no.,male,yes,00:09:10,00:12:00,00:02:50,41,yes,601.139,2,y,n,458,2.833333333,9.166666667,00:12:00,Limoncocha - El Carmen 1
+CAM041185,,,NA,wild,low,Heliconius,elevatus,willmotti,male,yes,00:08:30,00:24:00,00:15:30,39.9,yes,633.001,2.056,y,n,458,15.5,8.5,00:24:00,Limoncocha - El Carmen 1
+CAM041186,,,NA,wild,low,Heliconius,timareta,ssp. no.,male,yes,00:13:00,00:17:33,00:04:33,40.8,yes,579.439,2.044,n,n,458,4.55,13,00:17:33,Limoncocha - El Carmen 1
+CAM041187,,,NA,wild,low,Heliconius,timareta,ssp. no.,male,no,,NA,NA,38,yes,601.221,2.037,n,n,458,NA,NA,NA,Limoncocha - El Carmen 1
+CAM041188,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:12:08,00:14:55,00:02:47,40,yes,424.392,2.008,n,n,1230,2.783333333,12.13333333,00:14:55,"Reserva Narupa, P10"
+CAM041189,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:12:20,00:15:15,00:02:55,40.2,yes,527.967,2.09,y,n,1210,2.916666667,12.33333333,00:15:15,Finca Narupa
+CAM041190,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:12:30,00:39:00,00:26:30,39.5,yes,492.562,2.147,n,n,1120,26.5,12.5,00:39:00,"Reserva Narupa, bridge"
+CAM041191,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:20:00,00:44:00,00:24:00,40.4,yes,542.144,2.035,n,n,1210,24,20,00:44:00,Finca Narupa
+CAM041192,,,NA,wild,hig,Heliconius,telesiphe,sotericus,male,yes,00:15:00,00:20:19,00:05:19,40.2,yes,523.552,2.328,n,n,1120,5.316666667,15,00:20:19,"Reserva Narupa, bridge"
+CAM041193,,,NA,wild,hig,Heliconius,telesiphe,sotericus,male,yes,00:10:00,00:28:26,00:18:26,40.3,yes,561.577,2.276,n,n,1120,18.43333333,10,00:28:26,"Reserva Narupa, bridge"
+CAM041194,,,NA,wild,hig,Heliconius,telesiphe,sotericus,male,yes,00:07:45,00:17:35,00:09:50,40.2,yes,629.689,2.319,n,n,1120,9.833333333,7.75,00:17:35,"Reserva Narupa, bridge"
+CAM041195,,,NA,wild,hig,Heliconius,doris,,male,yes,00:06:20,00:46:00,00:39:40,40.1,yes,579.041,2.262,n,n,1120,39.66666667,6.333333333,00:46:00,"Reserva Narupa, bridge"
+CAM041196,,,NA,wild,hig,Heliconius,erato,lativitta,male,no,,00:03:24,00:00:00,35.5,no,480.458,2.047,,,1120,NA,NA,,
+CAM041197,,,NA,wild,hig,Heliconius,erato,lativitta,female,yes,00:08:56,00:15:35,00:06:39,39.4,yes,487.43,2.005,n,n,1120,6.65,8.933333333,00:15:35,"Reserva Narupa, bridge"
+CAM041198,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:04:10,00:29:50,00:25:40,40.1,yes,478.156,2.072,y,n,1120,25.66666667,4.166666667,00:29:50,"Reserva Narupa, bridge"
+CAM041199,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:06:50,00:10:31,00:03:41,40.2,yes,398.36,2.145,n,n,1120,3.683333333,6.833333333,00:10:31,"Reserva Narupa, bridge"
+CAM041200,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:06:50,00:09:45,00:02:55,39.9,yes,590.105,2.033,y,n,1120,2.916666667,6.833333333,00:09:45,"Reserva Narupa, bridge"
+CAM041201,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:08:50,00:25:00,00:16:10,40.1,yes,607.285,1.998,y,n,1120,16.16666667,8.833333333,00:25:00,"Reserva Narupa, bridge"
+CAM041202,,,NA,wild,hig,Heliconius,melpomene,malleti,female,yes,00:08:00,00:17:00,00:09:00,39.6,yes,554.396,2.079,y,n,1298,9,8,00:17:00,Road after y in km24 Tena-Quito
+CAM041203,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:12:46,00:32:22,00:19:36,41,yes,577.13,2.086,n,n,1120,19.6,12.76666667,00:32:22,"Reserva Narupa, bridge"
+CAM041204,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:07:16,00:12:17,00:05:01,41,yes,563.762,2.051,y,n,1120,5.016666667,7.266666667,00:12:17,"Reserva Narupa, bridge"
+CAM041205,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:07:17,00:14:19,00:07:02,40.7,yes,505.088,2.101,y,n,1120,7.033333333,7.283333333,00:14:19,"Reserva Narupa, bridge"
+CAM041206,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:06:20,00:48:00,00:41:40,39.4,yes,551.314,2.059,n,n,1120,41.66666667,6.333333333,00:48:00,"Reserva Narupa, bridge"
+CAM041207,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:08:00,00:33:30,00:25:30,40,yes,514.775,2.071,y,n,1120,25.5,8,00:33:30,"Reserva Narupa, bridge"
+CAM041208,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:13:00,00:20:00,00:07:00,39.6,yes,571.635,2.043,y,n,1468,7,13,00:20:00,Wild Sumaco Hummingbird Trail
+CAM041209,,,NA,wild,hig,Heliconius,melpomene,malleti,male,no,00:13:40,00:17:00,00:03:20,40.1,yes,544.134,2.031,,,1468,NA,NA,,
+CAM041210,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:12:00,00:13:44,00:01:44,41.1,yes,552.506,1.951,y,n,1468,1.733333333,12,00:13:44,Wild Sumaco Hummingbird Trail
+CAM041211,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:12:00,00:18:00,00:06:00,39,yes,564.377,1.921,y,n,1468,6,12,00:18:00,Wild Sumaco Hummingbird Trail
+CAM041212,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:16:00,00:33:35,00:17:35,40.2,yes,604.137,2.02,y,n,1468,17.58333333,16,00:33:35,Wild Sumaco Hummingbird Trail
+CAM041213,,,NA,wild,hig,Heliconius,melpomene,malleti,male,no,00:13:00,00:15:40,00:02:40,39.8,yes,554.752,1.99,y,   ,1468,NA,NA,,
+CAM041214,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:22:00,00:33:00,00:11:00,40.8,yes,516.602,1.99,y,n,1468,11,22,00:33:00,Wild Sumaco Hummingbird Trail
+CAM041215,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:17:00,00:36:00,00:19:00,40.4,yes,527.729,2.041,n,n,1468,19,17,00:36:00,Wild Sumaco Hummingbird Trail
+CAM041216,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:14:24,00:15:09,00:00:45,39.4,yes,572.257,1.955,y,n,1468,0.75,14.4,00:15:09,Wild Sumaco Hummingbird Trail
+CAM041217,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:18:00,00:19:34,00:01:34,40,yes,646.618,1.998,n,n,1282,1.566666667,18,00:19:34,Mina Negra
+CAM041219,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:08:00,00:11:00,00:03:00,39.8,yes,694.146,2.067,n,n,1282,3,8,00:11:00,Mina Negra
+CAM041220,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:09:00,00:12:38,00:03:38,39.1,yes,653.665,2.042,n,n,1282,3.633333333,9,00:12:38,Mina Negra
+CAM041221,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:13:40,00:17:00,00:03:20,39.1,yes,651.391,2.033,y,n,1468,3.333333333,13.66666667,00:17:00,Wild Sumaco Hummingbird Trail
+CAM041222,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:10:00,00:15:00,00:05:00,39.6,yes,585.267,1.912,n,n,1468,5,10,00:15:00,Wild Sumaco Hummingbird Trail
+CAM041223,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:16:00,00:28:00,00:12:00,39.6,yes,514.117,1.972,y,n,1468,12,16,00:28:00,Wild Sumaco Hummingbird Trail
+CAM041224,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:05:30,00:12:00,00:06:30,40,yes,570.607,1.953,y,n,1468,6.5,5.5,00:12:00,Wild Sumaco Hummingbird Trail
+CAM041225,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:09:00,00:09:10,00:00:10,39.1,yes,391.758,2.11,y,n,1282,0.166666667,9,00:09:10,Mina Negra
+CAM041226,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:10:00,00:19:30,00:09:30,41.5,yes,510.702,2.105,n,n,1282,9.5,10,00:19:30,Mina Negra
+CAM041227,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:06:30,00:16:40,00:10:10,39.1,yes,486.598,2.11,n,n,1282,10.16666667,6.5,00:16:40,Mina Negra
+CAM041228,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:08:30,00:10:33,00:02:03,39,yes,488.932,2.035,n,n,1282,2.05,8.5,00:10:33,Mina Negra
+CAM041229,,,NA,wild,hig,Heliconius,xanthocles,,female,yes,00:08:30,00:17:30,00:09:00,40.2,yes,555.841,2.004,n,n,1282,9,8.5,00:17:30,Mina Negra
+CAM041231,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:08:30,00:14:07,00:05:37,40,yes,498.764,2.148,n,n,1282,5.616666667,8.5,00:14:07,Mina Negra
+CAM041232,,,NA,wild,hig,Heliconius,erato,lativitta,male,no,,,00:07:50,38,yes,523.771,2.137,,,1282,NA,NA,,
+CAM041234,,,NA,wild,hig,Heliconius,clysonymus,,male,no,,00:03:56,00:00:00,32.1,yes,610.058,2.31,,,1468,NA,NA,,
+CAM041235,,,NA,wild,hig,Heliconius,clysonymus,,male,yes,,00:07:10,00:00:00,37.4,yes,575.157,2.358,n,n,1468,7.166666667,NA,00:07:10,Wild Sumaco Hummingbird Trail
+CAM041237,,,NA,wild,hig,Heliconius,hierax,,male,yes,,00:04:50,00:00:00,34.6,yes,516.873,2.06,n,n,1468,4.833333333,NA,00:04:50,Wild Sumaco Hummingbird Trail
+CAM041238,,,NA,wild,hig,Heliconius,hierax,,male,yes,00:08:00,00:09:20,00:01:20,39.1,yes,464.537,2.095,n,n,1468,1.333333333,8,00:09:20,Wild Sumaco Hummingbird Trail
+CAM041239,,,NA,wild,hig,Heliconius,hierax,,male,yes,00:13:30,00:19:25,00:05:55,40.7,yes,549.28,2.095,n,n,1468,5.916666667,13.5,00:19:25,Wild Sumaco Hummingbird Trail
+CAM041240,,,NA,wild,hig,Heliconius,hierax,,male,yes,,00:05:23,00:00:00,37.3,yes,487.68,2.11,n,n,1468,5.383333333,NA,00:05:23,Wild Sumaco Hummingbird Trail
+CAM041242,,,NA,wild,hig,Heliconius,hierax,,male,yes,00:04:03,00:13:35,00:09:32,39.2,yes,539.347,1.994,n,n,1468,9.533333333,4.05,00:13:35,Wild Sumaco Hummingbird Trail
+CAM041243,,,NA,wild,hig,Heliconius,hierax,,male,yes,00:06:30,00:08:52,00:02:22,39.7,yes,488.561,2.041,n,n,1468,2.366666667,6.5,00:08:52,Wild Sumaco Hummingbird Trail
+CAM041244,,,NA,wild,hig,Heliconius,hierax,,male,yes,00:06:00,00:07:01,00:01:01,39.6,yes,513.43,2.028,y,n,1468,1.016666667,6,00:07:01,Wild Sumaco Hummingbird Trail
+CAM041247,,,NA,wild,hig,Heliconius,telesiphe,sotericus,male,yes,,00:07:20,00:00:00,37,yes,460.496,2.358,n,n,1468,7.333333333,NA,00:07:20,Wild Sumaco Hummingbird Trail
+CAM041250,,,NA,wild,hig,Heliconius,telesiphe,sotericus,male,yes,,00:09:20,00:00:00,38.1,yes,583.625,2.364,n,n,1468,9.333333333,NA,00:09:20,Wild Sumaco Hummingbird Trail
+CAM041252,,,NA,wild,hig,Heliconius,telesiphe,sotericus,male,yes,,00:04:20,00:00:00,37,yes,564.444,2.344,n,n,1468,4.333333333,NA,00:04:20,Wild Sumaco Hummingbird Trail
+CAM041253,,,NA,wild,hig,Heliconius,telesiphe,sotericus,male,yes,,00:05:20,00:00:00,35.9,yes,503.551,2.39,n,n,1468,5.333333333,NA,00:05:20,Wild Sumaco Hummingbird Trail
+CAM041256,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:13:10,00:33:20,00:20:10,41.2,yes,418.857,2.185,n,n,1312,20.16666667,13.16666667,00:33:20,Reventador road
+CAM041257,,,NA,wild,hig,Heliconius,erato,lativitta,female,yes,,00:08:09,00:00:00,38.7,yes,496.712,2.048,y,n,1312,8.15,NA,00:08:09,Reventador road
+CAM041260,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:08:30,00:00:00,38.5,yes,592.19,2.157,y,n,1312,8.5,NA,00:08:30,Reventador road
+CAM041261,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:05:00,00:05:43,00:00:43,38.7,yes,526.848,2.089,y,n,1312,0.716666667,5,00:05:43,Reventador road
+CAM041262,,,NA,wild,hig,Heliconius,erato,lativitta,female,yes,,00:05:50,00:00:00,38.6,yes,464.281,1.968,y,n,1312,5.833333333,NA,00:05:50,Reventador road
+CAM041263,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:05:20,00:07:00,00:01:40,40.2,yes,408.109,2.146,n,n,1312,1.666666667,5.333333333,00:07:00,Reventador road
+CAM041264,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:05:20,00:08:06,00:02:46,41.1,yes,354.702,2.028,y,n,1312,2.766666667,5.333333333,00:08:06,Reventador road
+CAM041265,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:15:00,00:18:13,00:03:13,41.3,yes,468.199,2.045,y,n,1312,3.216666667,15,00:18:13,Reventador road
+CAM041266,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:19:30,00:23:00,00:03:30,39.7,yes,431.237,2.142,n,n,1312,3.5,19.5,00:23:00,Reventador road
+CAM041267,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:10:00,00:00:00,38.6,yes,494.129,2.051,y,n,1312,10,NA,00:10:00,Reventador road
+CAM041268,,,NA,wild,hig,Heliconius,erato,lativitta,female,yes,00:30:00,00:37:30,00:07:30,41.9,yes,513.547,2.035,y,n,1312,7.5,30,00:37:30,Reventador road
+CAM041269,,,NA,wild,hig,Heliconius,erato,lativitta,female,yes,00:09:30,00:11:20,00:01:50,39.1,yes,389.909,2.064,n,n,1312,1.833333333,9.5,00:11:20,Reventador road
+CAM041270,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:09:50,00:12:46,00:02:56,39.8,yes,523.201,1.991,n,n,1312,2.933333333,9.833333333,00:12:46,Reventador road
+CAM041271,,,NA,wild,hig,Heliconius,erato,lativitta,male,no,,,00:25:00,NA,yes,432.869,2.057,,,1312,NA,NA,,
+CAM041272,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:06:20,00:11:30,00:05:10,39.8,yes,513.11,2.108,y,n,1312,5.166666667,6.333333333,00:11:30,Reventador road
+CAM041273,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:03:50,00:05:00,00:01:10,41.1,yes,450.225,2.082,y,n,1312,1.166666667,3.833333333,00:05:00,Reventador road
+CAM041274,,,NA,wild,hig,Heliconius,melpomene,malleti,female,yes,00:04:10,00:11:20,00:07:10,40.9,yes,529.749,1.93,n,n,1312,7.166666667,4.166666667,00:11:20,Reventador road
+CAM041275,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:08:00,00:22:00,00:14:00,39.8,yes,673.846,1.991,y,n,1312,14,8,00:22:00,Reventador road
+CAM041276,,,NA,wild,hig,Heliconius,timareta,ssp. no.,male,yes,00:02:35,00:17:00,00:14:25,40.3,yes,664.51,1.968,n,n,1312,14.41666667,2.583333333,00:17:00,Reventador road
+CAM041277,,,NA,wild,hig,Heliconius,erato,lativitta,female,yes,,00:04:17,00:00:00,35.8,yes,554.181,1.975,n,n,1312,4.283333333,NA,00:04:17,Reventador road
+CAM041278,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:06:50,00:00:00,36.9,yes,595.304,2.035,y,n,1312,6.833333333,NA,00:06:50,Reventador road
+CAM041279,,,NA,wild,hig,Heliconius,telesiphe,sotericus,male,yes,00:12:00,00:23:00,00:11:00,39.9,yes,437.987,2.319,n,n,1312,11,12,00:23:00,Reventador road
+CAM041280,,,NA,wild,hig,Heliconius,clysonymus,,male,yes,00:06:50,00:08:00,00:01:10,40,yes,602.903,2.185,y,n,1312,1.166666667,6.833333333,00:08:00,Reventador road
+CAM041281,,,NA,wild,hig,Heliconius,clysonymus,,male,yes,,00:09:40,00:00:00,38.6,yes,457.503,2.338,n,n,1312,9.666666667,NA,00:09:40,Reventador road
+CAM041282,,,NA,wild,hig,Heliconius,clysonymus,,male,yes,,00:11:00,00:00:00,38.9,yes,510.496,2.262,y,n,1312,11,NA,00:11:00,Reventador road
+CAM041283,,,NA,wild,hig,Heliconius,clysonymus,,female,yes,00:19:00,00:27:00,00:08:00,40.1,yes,546.423,2.354,y,n,1312,8,19,00:27:00,Reventador road
+CAM041284,,,NA,wild,hig,Heliconius,clysonymus,,male,yes,00:09:00,00:13:00,00:04:00,39.3,yes,623.308,2.218,n,n,1312,4,9,00:13:00,Reventador road
+CAM041285,,,NA,wild,hig,Heliconius,clysonymus,,male,yes,00:10:00,00:14:00,00:04:00,38.1,yes,612.856,2.283,y,n,1312,4,10,00:14:00,Reventador road
+CAM041305,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:14:30,00:25:00,00:10:30,40.5,yes,434.156,2.141,n,n,470,10.5,14.5,00:25:00,"El Tortugo, P25"
+CAM041306,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:10:50,00:36:00,00:25:10,41.2,yes,343.429,2.291,n,n,470,25.16666667,10.83333333,00:36:00,"El Tortugo, P25"
+CAM041307,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:16:00,00:29:10,00:13:10,40.8,yes,385.961,2.065,n,n,470,13.16666667,16,00:29:10,"El Tortugo, P25"
+CAM041308,,,NA,wild,low,Heliconius,erato,cyrbia,male,no,00:09:00,00:12:25,00:03:25,40,yes,408.951,2.1,,,470,NA,NA,,
+CAM041309,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:10:00,00:21:00,00:11:00,41.2,yes,449.506,2.115,n,n,470,11,10,00:21:00,"El Tortugo, P25"
+CAM041319,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:13:00,00:58:00,00:45:00,40.2,yes,343.696,1.993,n,n,447,45,13,00:58:00,Mina before Puerto Quito 1
+CAM041320,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:08:00,00:18:40,00:10:40,40.8,yes,419.331,2.079,n,n,447,10.66666667,8,00:18:40,Mina before Puerto Quito 1
+CAM041321,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:10:00,00:26:00,00:16:00,41.9,yes,412.741,2.204,n,n,447,16,10,00:26:00,Mina before Puerto Quito 1
+CAM041322,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:06:00,00:33:00,00:27:00,40.1,yes,290.459,2.101,n,n,447,27,6,00:33:00,Mina before Puerto Quito 1
+CAM041324,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:06:00,00:30:30,00:24:30,40.1,yes,384.066,2.057,n,n,447,24.5,6,00:30:30,Mina before Puerto Quito 1
+CAM041325,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:06:00,00:57:50,00:51:50,39.2,yes,445.071,2.093,n,n,447,51.83333333,6,00:57:50,Mina before Puerto Quito 1
+CAM041326,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:13:00,00:24:00,00:11:00,41.3,yes,436.605,2.149,n,n,447,11,13,00:24:00,Mina before Puerto Quito 1
+CAM041327,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:08:30,00:15:30,00:07:00,39.2,yes,432.697,2.11,n,n,447,7,8.5,00:15:30,Mina before Puerto Quito 1
+CAM041330,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:06:00,00:07:00,00:01:00,41.3,yes,432.024,2.072,n,n,447,1,6,00:07:00,Mina before Puerto Quito 1
+CAM041331,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:19:00,00:38:30,00:19:30,40.2,yes,383.251,2.085,n,n,447,19.5,19,00:38:30,Mina before Puerto Quito 1
+CAM041332,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:11:50,00:22:00,00:10:10,40.1,yes,356.6,2.05,y,n,447,10.16666667,11.83333333,00:22:00,Mina before Puerto Quito 1
+CAM041333,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:13:00,00:35:27,00:22:27,39.9,yes,368.073,2.12,n,n,375,22.45,13,00:35:27,Mina before Puerto Quito 2
+CAM041334,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:05:57,00:36:40,00:30:43,40.6,yes,259.617,1.933,n,n,375,30.71666667,5.95,00:36:40,Mina before Puerto Quito 2
+CAM041335,,,NA,wild,low,Heliconius,erato,cyrbia,male,no,,00:04:20,00:00:00,38.1,no,453.596,2.049,,,375,NA,NA,,
+CAM041337,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:05:20,00:11:40,00:06:20,40.3,yes,280.744,2.134,n,n,392,6.333333333,5.333333333,00:11:40,Mina before Puerto Quito 3
+CAM041338,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:16:00,00:33:40,00:17:40,39.3,yes,471.276,2.124,n,n,392,17.66666667,16,00:33:40,Mina before Puerto Quito 3
+CAM041339,,,NA,wild,low,Heliconius,erato,cyrbia,male,yes,00:05:20,00:13:20,00:08:00,40.5,yes,322.891,2.084,y,n,392,8,5.333333333,00:13:20,Mina before Puerto Quito 3
+CAM041340,,,NA,wild,low,Heliconius,sara,sprucei,male,yes,00:05:20,00:14:30,00:09:10,40.5,yes,401.079,2.213,n,n,392,9.166666667,5.333333333,00:14:30,Mina before Puerto Quito 3
+CAM041357,,,NA,wild,hig,Heliconius,erato,lativitta,male,no,00:09:40,,,NA,yes,448.282,1.996,,,1312,NA,NA,,
+CAM041358,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:09:55,00:11:15,00:01:20,40.9,yes,467.708,2.13,n,n,1312,1.333333333,9.916666667,00:11:15,Reventador road
+CAM041359,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:08:50,00:12:45,00:03:55,40.1,yes,470.218,2.105,n,n,1312,3.916666667,8.833333333,00:12:45,Reventador road
+CAM041361,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:05:00,00:00:00,34.5,yes,516.761,2.147,n,n,1312,5,NA,00:05:00,Reventador road
+CAM041362,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:08:00,00:25:00,00:17:00,40,yes,463.588,2.196,n,n,1312,17,8,00:25:00,Reventador road
+CAM041363,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:08:20,00:22:04,00:13:44,41,yes,497.758,2.21,n,n,1312,13.73333333,8.333333333,00:22:04,Reventador road
+CAM041364,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:07:30,00:00:00,37.8,yes,439.371,2.092,n,n,1312,7.5,NA,00:07:30,Reventador road
+CAM041365,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:08:00,00:35:15,00:27:15,39.8,yes,488.471,2.116,n,n,1312,27.25,8,00:35:15,Reventador road
+CAM041366,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:10:00,00:00:00,38.1,yes,421.468,2.08,n,n,1312,10,NA,00:10:00,Reventador road
+CAM041367,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,,00:03:00,00:00:00,36.8,yes,486.559,2.082,n,n,1312,3,NA,00:03:00,Reventador road
+CAM041368,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:03:35,00:07:23,00:03:48,41.2,yes,570.417,2.081,n,n,1312,3.8,3.583333333,00:07:23,Reventador road
+CAM041369,,,NA,wild,hig,Heliconius,melpomene,malleti,female,yes,00:04:00,00:05:40,00:01:40,40.6,yes,544.593,1.969,n,n,1312,1.666666667,4,00:05:40,Reventador road
+CAM041371,,,NA,wild,hig,Heliconius,melpomene,malleti,female,yes,00:03:30,00:16:34,00:13:04,40.2,yes,568.182,1.971,n,n,1312,13.06666667,3.5,00:16:34,Reventador road
+CAM041372,,,NA,wild,hig,Heliconius,melpomene,malleti,female,yes,00:03:35,00:08:37,00:05:02,40.5,yes,597.558,2.05,n,n,1312,5.033333333,3.583333333,00:08:37,Reventador road
+CAM041373,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,00:04:35,00:08:50,00:04:15,39.1,yes,514.445,2.369,n,n,1312,4.25,4.583333333,00:08:50,Reventador road
+CAM041374,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,female,yes,,00:08:10,00:00:00,38,yes,491.955,2.408,n,n,1312,8.166666667,NA,00:08:10,Reventador road
+CAM041375,,,NA,wild,hig,Heliconius,congener,,male,yes,,00:06:01,00:00:00,37.6,yes,471.578,2.142,n,n,1312,6.016666667,NA,00:06:01,Reventador road
+CAM041376,,,NA,wild,hig,Heliconius,congener,,male,yes,00:10:05,00:19:40,00:09:35,40.3,yes,421.694,2.127,n,n,1312,9.583333333,10.08333333,00:19:40,Reventador road
+CAM041377,,,NA,wild,hig,Heliconius,congener,,male,yes,,00:01:15,00:00:00,29,yes,578.236,2.066,n,n,1312,1.25,NA,00:01:15,Reventador road
+CAM041378,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:12:30,00:23:10,00:10:40,40.6,yes,594.639,2.038,n,n,1348,10.66666667,12.5,00:23:10,Reventador road 2
+CAM041379,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:13:00,00:26:40,00:13:40,39,yes,544.481,2.082,n,n,1348,13.66666667,13,00:26:40,Reventador road 2
+CAM041380,,,NA,wild,hig,Heliconius,erato,,male,no,00:12:00,00:16:27,00:04:27,39.3,yes,407.259,2.199,,,1348,NA,NA,,
+CAM041381,,,NA,wild,hig,Heliconius,erato,,male,no,00:11:40,00:15:00,00:03:20,39.3,yes,487.207,2.181,,,1348,NA,NA,,
+CAM041382,,,NA,wild,hig,Heliconius,erato,,male,no,00:12:10,,,NA,yes,511.808,2.123,,,1348,NA,NA,,
+CAM041383,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:03:40,00:00:00,34,yes,455.218,2.174,n,n,1348,3.666666667,NA,00:03:40,Reventador road 2
+CAM041384,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:07:50,00:00:00,35.9,yes,453.98,2.153,n,n,1348,7.833333333,NA,00:07:50,Reventador road 2
+CAM041385,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:02:00,00:00:00,31,yes,337.909,2.132,n,n,1348,2,NA,00:02:00,Reventador road 2
+CAM041386,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:07:50,00:08:45,00:00:55,39.4,yes,421.208,2.073,n,n,1348,0.916666667,7.833333333,00:08:45,Reventador road 2
+CAM041387,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:05:30,00:00:00,36.6,yes,510.793,2.065,n,n,1348,5.5,NA,00:05:30,Reventador road 2
+CAM041388,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:08:00,00:08:40,00:00:40,39.1,yes,422.131,2.145,n,n,1348,0.666666667,8,00:08:40,Reventador road 2
+CAM041389,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:08:10,00:00:00,37.7,yes,597.724,2.029,n,n,1348,8.166666667,NA,00:08:10,Reventador road 2
+CAM041394,,,NA,wild,hig,Heliconius,timareta,ssp. no.,female,yes,00:06:00,00:16:30,00:10:30,40.3,yes,665.068,2.102,n,n,1348,10.5,6,00:16:30,Reventador road 2
+CAM041395,,,NA,wild,hig,Heliconius,timareta,ssp. no.,female,no,,00:01:40,00:00:00,32.3,yes,NA,NA,,,1348,NA,NA,,
+CAM041396,,,NA,wild,hig,Heliconius,timareta,ssp. no.,female,yes,00:05:40,00:09:20,00:03:40,39,yes,567.765,2.032,n,n,1348,3.666666667,5.666666667,00:09:20,Reventador road 2
+CAM041397,,,NA,wild,hig,Heliconius,timareta,ssp. no.,male,yes,00:04:00,00:10:20,00:06:20,39.4,yes,562.804,2.13,n,n,1348,6.333333333,4,00:10:20,Reventador road 2
+CAM041398,,,NA,wild,hig,Heliconius,timareta,ssp. no.,male,yes,00:04:00,00:06:58,00:02:58,40.6,yes,590.325,2.073,n,n,1348,2.966666667,4,00:06:58,Reventador road 2
+CAM041399,,,NA,wild,hig,Heliconius,timareta,ssp. no.,male,yes,00:04:00,00:06:10,00:02:10,40.8,yes,624.139,2.08,n,n,1348,2.166666667,4,00:06:10,Reventador road 2
+CAM041400,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:04:00,00:05:30,00:01:30,40.9,yes,485.793,2.015,n,n,1348,1.5,4,00:05:30,Reventador road 2
+CAM041401,,,NA,wild,hig,Heliconius,timareta,ssp. no.,male,yes,,00:04:00,00:00:00,38.4,yes,582.094,2.036,n,n,1348,4,NA,00:04:00,Reventador road 2
+CAM041402,,,NA,wild,hig,Heliconius,timareta,ssp. no.,male,yes,00:04:40,00:05:30,00:00:50,39.5,yes,577.067,2.048,n,n,1348,0.833333333,4.666666667,00:05:30,Reventador road 2
+CAM041403,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,,00:04:10,00:00:00,37.9,yes,577.875,2.068,n,n,1348,4.166666667,NA,00:04:10,Reventador road 2
+CAM041404,,,NA,wild,hig,Heliconius,sara,magdalena,male,yes,00:11:50,00:20:15,00:08:25,39.4,yes,381.423,2.273,n,n,1348,8.416666667,11.83333333,00:20:15,Reventador road 2
+CAM041406,,,NA,wild,hig,Heliconius,sara,,male,no,00:11:50,00:14:30,00:02:40,NA,yes,407.957,2.265,,,1348,NA,NA,,
+CAM041407,,,NA,wild,hig,Heliconius,sara,magdalena,male,yes,00:08:00,00:13:40,00:05:40,40.2,yes,373.571,2.3,n,n,1348,5.666666667,8,00:13:40,Reventador road 2
+CAM041408,,,NA,wild,hig,Heliconius,sara,,male,no,00:08:00,00:10:56,00:02:56,39,yes,357.189,2.33,,,1348,NA,NA,,
+CAM041409,,,NA,wild,hig,Heliconius,sara,magdalena,male,yes,00:05:00,00:08:00,00:03:00,39.9,yes,316.854,2.304,n,n,1348,3,5,00:08:00,Reventador road 2
+CAM041410,,,NA,wild,hig,Heliconius,sara,magdalena,male,yes,00:05:40,00:36:20,00:30:40,41,yes,431.833,2.25,n,n,1348,30.66666667,5.666666667,00:36:20,Reventador road 2
+CAM041411,,,NA,wild,hig,Heliconius,sara,magdalena,male,yes,00:03:48,00:06:50,00:03:02,41,yes,299.611,2.253,n,n,1348,3.033333333,3.8,00:06:50,Reventador road 2
+CAM041412,,,NA,wild,hig,Heliconius,sara,magdalena,female,yes,00:05:00,00:23:22,00:18:22,41.1,yes,436.18,2.258,n,n,1348,18.36666667,5,00:23:22,Reventador road 2
+CAM041413,,,NA,wild,hig,Heliconius,sara,magdalena,female,yes,00:10:50,00:25:39,00:14:49,39.9,yes,365.754,2.322,n,n,1348,14.81666667,10.83333333,00:25:39,Reventador road 2
+CAM041414,,,NA,wild,hig,Heliconius,sara,magdalena,female,yes,00:10:50,00:24:22,00:13:32,39.3,yes,365.428,2.294,n,n,1348,13.53333333,10.83333333,00:24:22,Reventador road 2
+CAM041415,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,,00:02:50,00:00:00,35.2,yes,527.104,2.384,n,n,1348,2.833333333,NA,00:02:50,Reventador road 2
+CAM041416,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,,00:05:30,00:00:00,37.6,yes,503.178,2.381,n,y,1348,5.5,NA,00:05:30,Reventador road 2
+CAM041417,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,00:04:50,00:06:45,00:01:55,40.1,yes,548.474,2.367,n,n,1348,1.916666667,4.833333333,00:06:45,Reventador road 2
+CAM041419,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,,00:07:40,00:00:00,39,yes,573.492,2.239,n,n,1348,7.666666667,NA,00:07:40,Reventador road 2
+CAM041420,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,,00:05:00,00:00:00,38.1,yes,553.176,2.399,n,n,1348,5,NA,00:05:00,Reventador road 2
+CAM041421,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,,00:06:50,00:00:00,37.9,yes,561.946,2.313,n,n,1348,6.833333333,NA,00:06:50,Reventador road 2
+CAM041422,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,00:07:00,00:08:40,00:01:40,39,yes,582.994,2.311,n,n,1348,1.666666667,7,00:08:40,Reventador road 2
+CAM041423,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,female,yes,00:07:00,00:22:00,00:15:00,40.6,yes,522.395,2.368,n,n,1348,15,7,00:22:00,Reventador road 2
+CAM041424,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,female,yes,00:07:00,00:10:15,00:03:15,39.3,yes,543.058,2.347,n,n,1348,3.25,7,00:10:15,Reventador road 2
+CAM041425,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,female,yes,00:04:50,00:21:30,00:16:40,38.6,yes,588.375,2.344,n,n,1348,16.66666667,4.833333333,00:21:30,Reventador road 2
+CAM041426,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,female,yes,,00:01:41,00:00:00,36.3,yes,522.111,2.383,n,n,1348,1.683333333,NA,00:01:41,Reventador road 2
+CAM041427,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,female,yes,,00:03:10,00:00:00,37.6,yes,497.681,2.35,n,n,1348,3.166666667,NA,00:03:10,Reventador road 2
+CAM041432,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:09:30,00:15:30,00:06:00,39.5,yes,417.771,2.182,n,n,1348,6,9.5,00:15:30,Reventador road 2
+CAM041433,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:08:40,00:11:18,00:02:38,39.7,yes,549.24,2.098,n,n,1348,2.633333333,8.666666667,00:11:18,Reventador road 2
+CAM041434,,,NA,wild,hig,Heliconius,erato,,male,no,00:09:30,00:11:55,00:02:25,40.9,yes,566.587,2.067,,,1348,NA,NA,,
+CAM041435,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:02:44,00:00:00,30.6,yes,441.92,2.181,n,n,1348,2.733333333,NA,00:02:44,Reventador road 2
+CAM041436,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:07:11,00:00:00,37.8,yes,445.253,2.069,n,n,1348,7.183333333,NA,00:07:11,Reventador road 2
+CAM041437,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:09:54,00:00:00,38.1,yes,538.498,2.105,n,n,1348,9.9,NA,00:09:54,Reventador road 2
+CAM041438,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:09:00,00:18:50,00:09:50,39.9,yes,456.891,2.198,n,n,1348,9.833333333,9,00:18:50,Reventador road 2
+CAM041439,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:04:50,00:00:00,36,yes,545.587,2.083,n,n,1348,4.833333333,NA,00:04:50,Reventador road 2
+CAM041440,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:09:00,00:11:10,00:02:10,40.3,yes,471.132,2.122,n,n,1348,2.166666667,9,00:11:10,Reventador road 2
+CAM041441,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,00:09:00,00:12:10,00:03:10,40.3,yes,502.866,2.163,n,n,1348,3.166666667,9,00:12:10,Reventador road 2
+CAM041442,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:03:00,00:00:00,36.8,yes,462.999,2.093,n,n,1348,3,NA,00:03:00,Reventador road 2
+CAM041443,,,NA,wild,hig,Heliconius,sara,,male,yes,00:15:00,01:00:00,00:45:00,40,yes,383.75,2.258,,,1348,NA,NA,,
+CAM041444,,,NA,wild,hig,Heliconius,sara,magdalena,male,yes,00:08:00,00:14:15,00:06:15,40.1,yes,403.389,2.231,n,n,1348,6.25,8,00:14:15,Reventador road 2
+CAM041445,,,NA,wild,hig,Heliconius,sara,magdalena,male,yes,,00:05:56,00:00:00,37.2,yes,382.007,2.25,n,n,1348,5.933333333,NA,00:05:56,Reventador road 2
+CAM041446,,,NA,wild,hig,Heliconius,sara,magdalena,male,yes,00:08:00,00:23:40,00:15:40,40.2,yes,405.993,2.211,n,n,1348,15.66666667,8,00:23:40,Reventador road 2
+CAM041447,,,NA,wild,hig,Heliconius,sara,magdalena,male,yes,00:07:00,00:22:33,00:15:33,41,yes,384.734,2.3,n,n,1348,15.55,7,00:22:33,Reventador road 2
+CAM041448,,,NA,wild,hig,Heliconius,sara,magdalena,female,yes,00:07:00,00:24:15,00:17:15,41.1,yes,342.362,2.267,n,n,1348,17.25,7,00:24:15,Reventador road 2
+CAM041449,,,NA,wild,hig,Heliconius,sara,,female,no,00:10:00,,,NA,yes,389.628,2.168,,,1348,NA,NA,,
+CAM041450,,,NA,wild,hig,Heliconius,sara,magdalena,female,yes,00:10:00,00:13:44,00:03:44,40.7,yes,367.105,2.32,n,n,1348,3.733333333,10,00:13:44,Reventador road 2
+CAM041451,,,NA,wild,hig,Heliconius,sara,magdalena,male,yes,,00:10:50,00:00:00,36.8,yes,375.302,2.331,n,n,1348,10.83333333,NA,00:10:50,Reventador road 2
+CAM041452,,,NA,wild,hig,Heliconius,timareta,ssp. no.,male,yes,00:11:20,00:16:13,00:04:53,39.9,yes,653.592,2.129,n,n,1348,4.883333333,11.33333333,00:16:13,Reventador road 2
+CAM041453,,,NA,wild,hig,Heliconius,timareta,ssp. no.,male,yes,00:05:00,00:05:30,00:00:30,39.9,yes,710.485,2.013,n,n,1348,0.5,5,00:05:30,Reventador road 2
+CAM041454,,,NA,wild,hig,Heliconius,timareta,ssp. no.,male,yes,,00:09:14,00:00:00,38.1,yes,658.377,2.164,n,n,1348,9.233333333,NA,00:09:14,Reventador road 2
+CAM041455,,,NA,wild,hig,Heliconius,timareta,ssp. no.,male,yes,00:11:20,00:12:37,00:01:17,39.8,yes,525.072,2.172,n,n,1348,1.283333333,11.33333333,00:12:37,Reventador road 2
+CAM041456,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:05:50,00:06:30,00:00:40,39.4,yes,541.652,2.138,n,n,1348,0.666666667,5.833333333,00:06:30,Reventador road 2
+CAM041457,,,NA,wild,hig,Heliconius,timareta,ssp. no.,male,yes,00:11:20,00:13:10,00:01:50,40.7,yes,717.688,2.076,n,n,1348,1.833333333,11.33333333,00:13:10,Reventador road 2
+CAM041458,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,,00:08:30,00:00:00,36.6,yes,531.454,2.155,n,n,1348,8.5,NA,00:08:30,Reventador road 2
+CAM041459,,,NA,wild,hig,Heliconius,timareta,ssp. no.,male,yes,,00:13:32,00:00:00,38.8,yes,562.347,2.05,n,n,1348,13.53333333,NA,00:13:32,Reventador road 2
+CAM041460,,,NA,wild,hig,Heliconius,timareta,ssp. no.,female,yes,00:11:00,00:14:03,00:03:03,39.1,yes,670.511,2.057,n,n,1348,3.05,11,00:14:03,Reventador road 2
+CAM041461,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,,00:02:31,00:00:00,33.4,yes,663.025,2.353,n,n,1348,2.516666667,NA,00:02:31,Reventador road 2
+CAM041462,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,,00:07:44,00:00:00,38,yes,586.776,2.391,n,n,1348,7.733333333,NA,00:07:44,Reventador road 2
+CAM041463,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,,00:03:30,00:00:00,37.9,yes,540.047,2.36,n,n,1348,3.5,NA,00:03:30,Reventador road 2
+CAM041464,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,,00:05:05,00:00:00,36.2,yes,532.187,2.418,n,n,1348,5.083333333,NA,00:05:05,Reventador road 2
+CAM041465,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,female,yes,,00:04:42,00:00:00,36.3,yes,384.649,2.466,n,n,1348,4.7,NA,00:04:42,Reventador road 2
+CAM041466,,,NA,wild,hig,Heliconius,hierax,,female,yes,,00:00:57,00:00:00,28.6,yes,537.287,2.097,n,n,1348,0.95,NA,00:00:57,Reventador road 2
+CAM041467,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:08:53,00:00:00,36,yes,396.46,2.101,n,n,1348,8.883333333,NA,00:08:53,Reventador road 2
+CAM041468,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,,00:01:45,00:00:00,34.2,yes,505.602,2.441,n,n,1348,1.75,NA,00:01:45,Reventador road 2
+CAM041469,,,NA,wild,hig,Heliconius,sara,magdalena,male,yes,00:12:05,00:20:20,00:08:15,40.5,yes,373.795,2.32,n,n,1348,8.25,12.08333333,00:20:20,Reventador road 2
+CAM041470,,,NA,wild,hig,Heliconius,sara,,male,no,,,,NA,yes,302.962,2.223,n,n,1348,NA,NA,,
+CAM041475,,,NA,wild,low,Heliconius,melpomene,malleti,female,yes,00:06:15,00:16:40,00:10:25,39.8,yes,481.524,2.116,n,n,458,10.41666667,6.25,00:16:40,Limoncocha - El Carmen 1
+CAM041476,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:07:00,00:08:50,00:01:50,40.5,yes,532.499,2.097,n,n,458,1.833333333,7,00:08:50,Limoncocha - El Carmen 1
+CAM041477,,,NA,wild,low,Heliconius,sara,magdalena,female,yes,00:05:40,00:07:50,00:02:10,40.2,yes,400.499,2.429,n,n,458,2.166666667,5.666666667,00:07:50,Limoncocha - El Carmen 1
+CAM041480,,,NA,wild,low,Heliconius,sara,magdalena,male,yes,00:05:30,00:06:56,00:01:26,41.7,yes,410.774,2.212,n,n,350,1.433333333,5.5,00:06:56,Cisne
+CAM041481,,,NA,wild,low,Heliconius,sara,magdalena,male,yes,00:05:30,00:40:10,00:34:40,39.8,yes,333.843,2.318,n,n,350,34.66666667,5.5,00:40:10,Cisne
+CAM041482,,,NA,wild,low,Heliconius,sara,magdalena,male,yes,00:05:30,00:09:05,00:03:35,40.2,yes,427.922,2.313,n,n,350,3.583333333,5.5,00:09:05,Cisne
+CAM041483,,,NA,wild,low,Heliconius,sara,magdalena,male,yes,00:05:30,00:17:19,00:11:49,41,yes,336.84,2.257,n,n,350,11.81666667,5.5,00:17:19,Cisne
+CAM041484,,,NA,wild,low,Heliconius,sara,magdalena,male,yes,00:05:30,00:27:53,00:22:23,39.5,yes,341.506,2.393,n,n,350,22.38333333,5.5,00:27:53,Cisne
+CAM041485,,,NA,wild,low,Heliconius,sara,magdalena,male,yes,00:05:30,00:33:30,00:28:00,40.9,yes,359.243,2.384,n,n,429,28,5.5,00:33:30,Limoncocha - El Carmen 2
+CAM041486,,,NA,wild,low,Heliconius,sara,,female,no,00:06:00,00:48:40,00:42:40,40.8,yes,411.125,2.338,,,350,NA,NA,,
+CAM041487,,,NA,wild,low,Heliconius,doris,,male,no,00:03:50,00:06:00,00:02:10,40.3,yes,517.017,2.408,,,429,NA,NA,,
+CAM041488,,,NA,wild,low,Heliconius,wallacei,,male,no,00:04:40,00:15:11,00:10:31,40.3,yes,560.965,2.126,,,350,NA,NA,,
+CAM041489,,,NA,wild,low,Heliconius,wallacei,,male,yes,00:04:25,01:00:00,00:55:35,39.5,yes,539.48,2.181,,,350,NA,NA,,
+CAM041490,,,NA,wild,low,Heliconius,wallacei,,male,yes,00:06:40,01:00:00,00:53:20,39.5,yes,488.377,2.149,,,350,NA,NA,,
+CAM041491,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:12:45,00:19:39,00:06:54,39.5,yes,518.392,2.177,n,n,350,6.9,12.75,00:19:39,Cisne
+CAM041492,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:02:20,00:08:37,00:06:17,39.3,yes,517.215,2.126,n,n,350,6.283333333,2.333333333,00:08:37,Cisne
+CAM041493,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:07:02,00:11:47,00:04:45,39,yes,468.753,2.092,n,n,350,4.75,7.033333333,00:11:47,Cisne
+CAM041494,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:06:58,00:23:06,00:16:08,39.9,yes,533.684,2.158,n,n,429,16.13333333,6.966666667,00:23:06,Limoncocha - El Carmen 2
+CAM041495,,,NA,wild,low,Heliconius,erato,,male,no,,,,NA,yes,555.776,2.128,,,429,NA,NA,,
+CAM041496,,,NA,wild,low,Heliconius,elevatus,willmotti,male,yes,00:06:58,00:36:00,00:29:02,40.1,yes,525.459,2.145,n,n,429,29.03333333,6.966666667,00:36:00,Limoncocha - El Carmen 2
+CAM041497,,,NA,wild,low,Heliconius,elevatus,willmotti,male,no,00:08:40,00:18:06,00:09:26,39.5,yes,613.919,2.058,,,429,NA,NA,,
+CAM041499,,,NA,wild,low,Heliconius,elevatus,willmotti,male,no,00:08:40,00:15:00,00:06:20,39.9,yes,554.73,2.106,,,429,NA,NA,,
+CAM041500,,,NA,wild,low,Heliconius,elevatus,willmotti,male,no,00:08:40,00:15:00,00:06:20,39.5,yes,584.511,2.078,,,429,NA,NA,,
+CAM041501,,,NA,wild,low,Heliconius,timareta,ssp. no.,male,no,,,,NA,yes,603.582,2.032,,,458,NA,NA,,
+CAM041504,,,NA,wild,low,Neruda,aoede,,male,no,00:05:10,,,NA,yes,584.829,1.95,,,429,NA,NA,,
+CAM041505,,,NA,wild,low,Neruda,aoede,,male,no,00:07:40,,,NA,yes,530.658,1.94,,,429,NA,NA,,
+CAM041506,,,NA,wild,low,Heliconius,xanthocles,napoensis,female,yes,00:06:10,00:26:34,00:20:24,39.9,yes,613.813,2.16,n,n,429,20.4,6.166666667,00:26:34,Limoncocha - El Carmen 2
+CAM041526,,,NA,wild,low,Heliconius,elevatus,willmotti,male,no,,,,NA,yes,605.047,2.108,,,458,NA,NA,,
+CAM041527,,,NA,wild,low,Heliconius,doris,,male,no,00:06:00,,,NA,yes,552.759,2.366,,,458,NA,NA,,
+CAM041533,,,NA,wild,low,Heliconius,doris,,male,no,,00:11:00,00:00:00,36.6,yes,579.832,2.31,,,458,NA,NA,,
+CAM041535,,,NA,wild,low,Heliconius,erato,,male,no,00:06:00,00:06:20,00:00:20,37.7,yes,528.428,2.202,,,429,NA,NA,,
+CAM041536,,,NA,wild,low,Heliconius,erato,,male,no,,00:10:30,00:00:00,38.9,yes,510.941,2.144,,,429,NA,NA,,
+CAM041555,,,NA,wild,low,Heliconius,wallacei,flavescens,male,yes,00:06:57,00:10:45,00:03:48,38,yes,500.827,2.277,n,n,640,3.8,6.95,00:10:45,Ikiam Road 2
+CAM041556,,,NA,wild,low,Heliconius,timareta,ssp.no.,male,yes,00:06:09,00:07:19,00:01:10,39.2,yes,544.14,1.978,n,n,640,1.166666667,6.15,00:07:19,Ikiam Road 2
+CAM041557,,,NA,wild,low,Heliconius,elevatus,willmotti,male,yes,00:02:00,00:28:28,00:26:28,40.8,yes,573.567,2.048,n,n,429,26.46666667,2,00:28:28,Road to Shalcana Loma
+CAM041558,,,NA,wild,low,Heliconius,timareta,ssp. no.,male,yes,00:05:18,00:10:22,00:05:04,38,yes,643.03,2.035,n,n,429,5.066666667,5.3,00:10:22,Road to Shalcana Loma
+CAM041559,,,NA,wild,low,Heliconius,timareta,ssp. no.,male,yes,00:04:35,00:08:09,00:03:34,38,yes,581.546,2.075,n,n,429,3.566666667,4.583333333,00:08:09,Road to Shalcana Loma
+CAM041560,,,NA,wild,low,Heliconius,timareta,ssp. no.,female,yes,00:03:33,00:23:45,00:20:12,39.9,yes,626.503,1.989,n,n,429,20.2,3.55,00:23:45,Road to Shalcana Loma
+CAM041561,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:04:57,00:16:50,00:11:53,39.8,yes,469.109,2.035,n,n,429,11.88333333,4.95,00:16:50,Road to Shalcana Loma
+CAM041562,,,NA,wild,low,Heliconius,erato,lativitta,male,yes,00:04:57,00:07:15,00:02:18,39,yes,555.701,2.05,n,n,429,2.3,4.95,00:07:15,Road to Shalcana Loma
+CAM041563,,,NA,wild,low,Heliconius,erato,,male,no,00:04:57,00:07:03,00:02:06,40,yes,505.645,2.222,,,429,NA,NA,,
+CAM041565,,,NA,wild,low,Neruda,aoede,,male,yes,00:04:57,00:12:45,00:07:48,39.8,yes,434.376,1.963,n,n,429,7.8,4.95,00:12:45,Road to Shalcana Loma
+CAM041566,,,NA,wild,low,Neruda,aoede,,male,yes,00:04:57,00:06:25,00:01:28,40,yes,540.948,1.911,n,n,429,1.466666667,4.95,00:06:25,Road to Shalcana Loma
+CAM041569,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,00:10:30,00:11:00,00:00:30,39.7,yes,560.951,2.109,n,n,1468,0.5,10.5,00:11:00,Wild Sumaco Hummingbird Trail
+CAM041570,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,00:06:15,00:13:38,00:07:23,39.9,yes,549.935,2.139,n,n,1468,7.383333333,6.25,00:13:38,Wild Sumaco Hummingbird Trail
+CAM041571,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,00:04:27,00:04:35,00:00:08,41,yes,612.689,2.25,n,n,1468,0.133333333,4.45,00:04:35,Wild Sumaco Hummingbird Trail
+CAM041572,,,NA,wild,hig,Heliconius,clysonymus,clysonymus,male,yes,00:09:53,00:11:45,00:01:52,40.2,yes,507.728,2.137,n,n,1468,1.866666667,9.883333333,00:11:45,Wild Sumaco Hummingbird Trail
+CAM041573,,,NA,wild,hig,Heliconius,clysonymus,,female,yes,00:10:30,00:12:32,00:02:02,40.8,yes,585.12,2.161,,,1468,NA,NA,,
+CAM041574,,,NA,wild,hig,Heliconius,telesiphe,sotericus,male,yes,,00:05:00,00:00:00,37.6,yes,525.94,2.383,n,n,1468,5,NA,00:05:00,Wild Sumaco Hummingbird Trail
+CAM041575,,,NA,wild,hig,Heliconius,xanthocles,,male,yes,00:08:50,00:14:01,00:05:11,40.1,yes,507.374,1.985,n,n,1468,5.183333333,8.833333333,00:14:01,Wild Sumaco Hummingbird Trail
+CAM041576,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,,00:03:57,00:00:00,37,yes,582.665,2.101,n,n,1468,3.95,NA,00:03:57,Wild Sumaco Hummingbird Trail
+CAM041577,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:03:10,00:03:55,00:00:45,40,yes,610.729,2.09,n,n,1468,0.75,3.166666667,00:03:55,Wild Sumaco Hummingbird Trail
+CAM041578,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:09:55,00:15:30,00:05:35,40.2,yes,545.5,2.21,n,n,1468,5.583333333,9.916666667,00:15:30,Wild Sumaco Hummingbird Trail
+CAM041579,,,NA,wild,hig,Heliconius,melpomene,malleti,female,yes,00:06:01,00:19:46,00:13:45,39.6,yes,565.045,2.045,n,n,1468,13.75,6.016666667,00:19:46,Wild Sumaco Hummingbird Trail
+CAM041580,,,NA,wild,hig,Heliconius,melpomene,malleti,female,yes,00:04:10,00:10:56,00:06:46,39.6,yes,489.41,1.973,n,n,1468,6.766666667,4.166666667,00:10:56,Wild Sumaco Hummingbird Trail
+CAM041581,,,NA,wild,hig,Heliconius,melpomene,malleti,female,yes,,00:04:57,00:00:00,37.3,yes,537.665,2.119,n,n,1468,4.95,NA,00:04:57,Wild Sumaco Hummingbird Trail
+CAM041582,,,NA,wild,hig,Heliconius,melpomene,malleti,female,yes,00:04:31,00:04:57,00:00:26,40.2,yes,545.845,2.036,n,n,1468,0.433333333,4.516666667,00:04:57,Wild Sumaco Hummingbird Trail
+CAM041586,,,NA,wild,hig,Heliconius,erato,lativitta,male,yes,,00:07:50,00:00:00,38.5,yes,462.319,2.123,n,n,1120,7.833333333,NA,00:07:50,"Reserva Narupa, bridge"
+CAM041587,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:08:30,00:13:23,00:04:53,40.2,yes,542.82,2.037,n,n,1120,4.883333333,8.5,00:13:23,"Reserva Narupa, bridge"
+CAM041588,,,NA,wild,hig,Heliconius,melpomene,malleti,male,yes,00:06:44,00:14:46,00:08:02,40.1,yes,547.044,2.092,n,n,1120,8.033333333,6.733333333,00:14:46,"Reserva Narupa, bridge"
+CAM041589,,,NA,wild,hig,Heliconius,telesiphe,sotericus,male,yes,,00:06:08,00:00:00,34.7,yes,508.441,2.382,n,n,1120,6.133333333,NA,00:06:08,"Reserva Narupa, bridge"
+CAM041590,,,NA,wild,hig,Heliconius,telesiphe,sotericus,male,yes,,00:09:22,00:00:00,38.2,yes,498.525,2.369,n,n,1120,9.366666667,NA,00:09:22,"Reserva Narupa, bridge"
+CAM041734,-,,0.457,wild,mid,Heliconius,erato,lativitta,male,yes,00:04:16,00:14:12,00:09:56,41.2,yes,488.917,2.163,n,n,596,9.933333333,4.266666667,00:14:12,Ikiam Mariposario
+CAM041793,?,,0.485,reared,,Heliconius,erato,lativitta,female,yes,00:06:27,00:14:49,00:08:22,41.9,yes,446.336,2.012,n,n,NA,8.366666667,6.45,00:14:49,Ikiam Mariposario
