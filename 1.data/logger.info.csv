@@ -1,57 +1,57 @@
-code_mine,hoboware_name,temp_data_name,humidity_data_name,point,point_altitude,canopy_understory,alt_type,side_andes,alt_height_type,alt_height_slope,locality_nickname,date_launch_1,date_collect_1,date_launch_2,date_collect_2,round1_state,round2_state,height_jan_to_jul,height_jul_to_jan,mean_height,logger.height,latitude,longitude
-H_01,H_01_20041878,t_h_01,h_h_01,P01,400,u,low,east,low_u,low_u_east,"Jatun Sacha, jardin botanico",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,,2,2,2,2,-1.06569,-77.6283
-H_02,H_02_20041879,t_h_02,h_h_02,P01,400,c,low,east,low_c,low_c_east,"Jatun Sacha, jardin botanico",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,,8.4,8.4,8.4,10.2,-1.06569,-77.6283
-H_03,H_03_20041880,t_h_03,h_h_03,P05,446,u,low,east,low_u,low_u_east,"Jatun Sacha, trail in front botanico",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,,1,1.5,1.2,1.2,-1.06912,-77.62964
-H_04,H_04_20041881,t_h_04,h_h_04,P05,446,c,low,east,low_c,low_c_east,"Jatun Sacha, trail in front botanico",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,damaged,12.9,12.9,12.9,14.7,-1.06912,-77.62964
-H_05,H_05_20041882,t_h_05,h_h_05,P10,1230,u,high,east,high_u,high_u_east,"Reserva Narupa, up trail",29/01/2017,27/07/2017,05/08/2017,08/02/2018,,,0.5,,0.5,0.5,-0.67964,-77.73953
-H_06,H_06_20041883,t_h_06,h_h_06,P10,1230,c,high,east,high_c,high_c_east,"Reserva Narupa, up trail",29/01/2017,27/07/2017,05/08/2017,08/02/2018,,,6.4,,6.4,8.2,-0.67964,-77.73953
-H_07,H_07_20041884,t_h_07,h_h_07,P13,1160,u,high,east,high_u,high_u_east,Narupa Finca jose,29/01/2017,27/07/2017,05/08/2017,08/02/2018,,,1,,1,1,-0.72617,-77.76961
-H_08,H_08_20041885,t_h_08,h_h_08,P13,1163,c,high,east,high_c,high_c_east,Narupa Finca jose,29/01/2017,27/07/2017,05/08/2017,08/02/2018,,,7.3,,7.3,9.1,-0.72621,-77.76957
-H_09,H_09_20041886,t_h_09,h_h_09,P15,1257,u,high,west,high_u,high_u_west,Mashpi Road P15,03/02/2017,01/07/2017,02/07/2017,12/02/2018,,,1.7,,1.7,1.7,0.16013,-78.85695
-H_10,H_10_20041887,t_h_10,h_h_10,P15,1257,c,high,west,high_c,high_c_west,Mashpi Road P15,03/02/2017,01/07/2017,02/07/2017,12/02/2018,,,6,,6,7.8,0.16007,-78.85694
-H_11,H_11_20041888,t_h_11,h_h_11,P19,1183,u,high,west,high_u,high_u_west,Mashpi Road P19,03/02/2017,01/07/2017,02/07/2017,12/02/2018,,,1.5,,1.5,1.5,0.1567,-78.86184
-H_12,H_12_20041889,t_h_12,h_h_12,P19,1183,c,high,west,high_c,high_c_west,Mashpi Road P19,03/02/2017,01/07/2017,02/07/2017,12/02/2018,,,7.6,,7.6,9.4,0.1567,-78.86184
-H_13,H_13_20041890,t_h_13,h_h_13,P23,442,u,low,west,low_u,low_u_west,Tortugo first site,03/02/2017,04/07/2017,05/07/2017,12/02/2018,logged_around,,1.5,,1.5,1.5,0.21099,-78.95468
-H_14,H_14_20041891,t_h_14,h_h_14,P23,442,c,low,west,low_c,low_c_west,Tortugo first site,03/02/2017,04/07/2017,05/07/2017,12/02/2018,logged_around,,11,,11,12.8,0.21097,-78.95468
-H_15,H_15_20041892,t_h_15,h_h_15,P27,488,u,low,west,low_u,low_u_west,Tortugo across stream with tapestry plants,03/02/2017,04/07/2017,05/07/2017,12/02/2018,,,0,,0,0,0.21181,-78.9397
-H_16,H_16_20041893,t_h_16,h_h_16,P27,488,c,low,west,low_c,low_c_west,Tortugo across stream with tapestry plants,03/02/2017,04/07/2017,05/07/2017,12/02/2018,,,,,,,0.21181,-78.9397
-T_01,T_01_20027770,t_t_01,NA,P02,420,u,low,east,low_u,low_u_east,"Jatun Sacha, jardin botanico P02",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,,1,1,1,1,-1.06431,-77.62944
-T_02,T_02_20027771,t_t_02,NA,P02,420,c,low,east,low_c,low_c_east,"Jatun Sacha, jardin botanico P02",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,,15.2,15.2,15.2,17,-1.06431,-77.62944
-T_03,T_03_20027772,t_t_03,NA,P03,410,u,low,east,low_u,low_u_east,"Jatun Sacha, jardin botanico P03",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,,1.7,1.7,1.7,1.7,-1.06695,-77.62758
-T_04,T_04_20027773,t_t_04,NA,P03,410,c,low,east,low_c,low_c_east,"Jatun Sacha, jardin botanico P03",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,,10.4,10.4,10.4,12.2,-1.06695,-77.62758
-T_05,T_05_20027774,t_t_05,NA,P04,415,u,low,east,low_u,low_u_east,"Jatun Sacha, trail in front botanico",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,,1.2,1.5,1.3,1.3,-1.06791,-77.62869
-T_06,T_06_20027775,t_t_06,NA,P04,415,c,low,east,low_c,low_c_east,"Jatun Sacha, trail in front botanico",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,,13.1,13.1,13.1,14.9,-1.06791,-77.62869
-T_07,T_07_20027776,t_t_07,NA,P06,429,u,low,east,low_u,low_u_east,"Jatun Sacha, reserve/offices",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,,1.5,1,1.2,1.2,-1.06774,-77.61677
-T_08,T_08_20027777,t_t_08,NA,P06,429,c,low,east,low_c,low_c_east,"Jatun Sacha, reserve/offices",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,,9.4,5.25,7,8.8,-1.06774,-77.61677
-T_09,T_09_20027778,t_t_09,NA,P07,425,u,low,east,low_u,low_u_east,"Jatun Sacha, reserve/offices",26/01/2017,15/07/2017,16/07/2017,07/02/2018,fallen,,0,1,0.5,0.5,-1.0692,-77.61621
-T_10,T_10_20027779,t_t_10,NA,P07,425,c,low,east,low_c,low_c_east,"Jatun Sacha, reserve/offices",26/01/2017,15/07/2017,16/07/2017,07/02/2018,,,12.2,12.2,12.2,14,-1.0692,-77.61621
-T_11,T_11_20027780,t_t_11,NA,P08,1162,u,high,east,high_u,high_u_east,"Reserva Narupa, up trail to Mirador",28/01/2017,taken,05/08/2017,08/02/2018,loggers_removed_13/03/17,,,1.65,1.7,1.7,-0.68252,-77.73954
-T_12,T_12_20027781,t_t_12,NA,P08,1162,c,high,east,high_c,high_c_east,"Reserva Narupa, up trail to Mirador",28/01/2017,taken,05/08/2017,08/02/2018,loggers_removed_13/03/18,fallen,,9,9,10.8,-0.68253,-77.73956
-T_13,T_13_20027782,t_t_13,NA,P09,1201,u,high,east,high_u,high_u_east,"Reserva Narupa, up trail to Mirador",28/01/2017,taken,05/08/2017,08/02/2018,loggers_removed_13/03/19,,,1,1,1,-0.6812,-77.73991
-T_14,T_14_20027783,t_t_14,NA,P09,1201,c,high,east,high_c,high_c_east,"Reserva Narupa, up trail to Mirador",28/01/2017,taken,05/08/2017,08/02/2018,loggers_removed_13/03/20,,,6.2,6.2,8,-0.68116,-77.73996
-T_15,T_15_20027784,t_t_15,NA,P11,1238,u,high,east,high_u,high_u_east,"Reserva Narupa, down shitty trail off Y (fallen tree)",28/01/2017,27/07/2017,05/08/2017,08/02/2018,fallen,,0,,0,0,-0.67926,-77.74097
-T_16,T_16_20027785,t_t_16,NA,P11,1238,c,high,east,high_c,high_c_east,"Reserva Narupa, down shitty trail off Y (fallen tree)",28/01/2017,27/07/2017,05/08/2017,08/02/2018,,,5.48,,5.5,7.3,-0.6793,-77.74089
-T_17,T_17_20027786,t_t_17,NA,P12,1291,u,high,east,high_u,high_u_east,"Reserva Narupa, up steep after Y",28/01/2017,27/07/2017,05/08/2017,08/02/2018,,,1.7,,1.7,1.7,-0.67837,-77.73883
-T_18,T_18_20027787,t_t_18,NA,P12,1291,c,high,east,high_c,high_c_east,"Reserva Narupa, up steep after Y",28/01/2017,27/07/2017,05/08/2017,08/02/2018,,,5,,5,6.8,-0.67837,-77.73883
-T_19,T_19_20027788,t_t_19,NA,P14,1257,u,high,east,high_u,high_u_east,Narupa Finca jose,28/01/2017,27/07/2017,05/08/2017,08/02/2018,,,1.5,,1.5,1.5,-0.72644,-77.77089
-T_20,T_20_20027789,t_t_20,NA,P14,1255,c,high,east,high_c,high_c_east,Narupa Finca jose,28/01/2017,27/07/2017,05/08/2017,08/02/2018,,,7.16,,7.2,9,-0.7264,-77.7709
-T_21,T_21_20027790,t_t_21,NA,P16,1251,u,high,west,high_u,high_u_west,"Mashpi Road, P16",03/02/2017,01/07/2017,02/07/2017,13/02/2018,,,1.5,,1.5,1.5,0.15933,-78.85829
-T_22,T_22_20027791,t_t_22,NA,P16,1251,c,high,west,high_c,high_c_west,"Mashpi Road, P16",03/02/2017,01/07/2017,02/07/2017,13/02/2018,,,12,,12,13.8,0.15935,-78.85828
-T_23,T_23_20027792,t_t_23,NA,P17,1227,u,high,west,high_u,high_u_west,"Mashpi Road, P17",03/02/2017,01/07/2017,02/07/2017,13/02/2018,,,1.3,,1.3,1.3,0.15806,-78.85981
-T_24,T_24_20027793,t_t_24,NA,P17,1227,c,high,west,high_c,high_c_west,"Mashpi Road, P17",03/02/2017,01/07/2017,02/07/2017,13/02/2018,,,10,,10,11.8,0.15806,-78.85981
-T_25,T_25_20027794,t_t_25,NA,P18,1233,u,high,west,high_u,high_u_west,"Mashpi Road, P18",03/02/2017,01/07/2017,02/07/2017,13/02/2018,,,1,,1,1,0.15669,-78.86036
-T_26,T_26_20027795,t_t_26,NA,P18,1233,c,high,west,high_c,high_c_west,"Mashpi Road, P18",03/02/2017,01/07/2017,02/07/2017,13/02/2018,,,13,,13,14.8,0.15662,-78.86037
-T_27,T_27_20027796,t_t_27,NA,P20,1172,u,high,west,high_u,high_u_west,"Mashpi Road, P20",03/02/2017,01/07/2017,02/07/2017,13/02/2018,,,1,,1,1,0.1562,-78.86365
-T_28,T_28_20027797,t_t_28,NA,P20,1172,c,high,west,high_c,high_c_west,"Mashpi Road, P20",03/02/2017,01/07/2017,02/07/2017,13/02/2018,,,7,,7,8.8,0.15626,-78.86365
-T_29,T_29_20027798,t_t_29,NA,P21,1138,u,high,west,high_u,high_u_west,"Mashpi Road, P21",03/02/2017,01/07/2017,02/07/2017,13/02/2018,,,1.7,,1.7,1.7,0.15714,-78.86632
-T_30,T_30_20027799,t_t_30,NA,P21,1138,c,high,west,high_c,high_c_west,"Mashpi Road, P21",03/02/2017,01/07/2017,02/07/2017,13/02/2018,,,10,,10,11.8,0.1572,-78.86641
-T_31,T_31_20027800,t_t_31,NA,P22,423,u,low,west,low_u,low_u_west,"Tortugo, near car park ",03/02/2017,04/07/2017,05/07/2017,13/02/2018,,,,,,0,0.20953,-78.95562
-T_32,T_32_20027801,t_t_32,NA,P22,423,c,low,west,low_c,low_c_west,"Tortugo, near car park",03/02/2017,04/07/2017,05/07/2017,13/02/2018,,,6.2,,6.2,8,0.20954,-78.95552
-T_33,T_33_20027802,t_t_33,NA,P24,476,u,low,west,low_u,low_u_west,Tortugo forest steep upwards,03/02/2017,04/07/2017,05/07/2017,13/02/2018,,,1,,1,1,0.20981,-78.95385
-T_34,T_34_20027803,t_t_34,NA,P24,476,c,low,west,low_c,low_c_west,Tortugo forest steep upwards,04/02/2017,04/07/2017,05/07/2017,13/02/2018,,,7.5,,7.5,9.3,0.20981,-78.95385
-T_35,T_35_20027804,t_t_35,NA,P25,472,u,low,west,low_u,low_u_west,Tortugo by cow farm,04/02/2017,04/07/2017,05/07/2017,13/02/2018,,,1.5,,1.5,1.5,0.2075,-78.94615
-T_36,T_36_20027805,t_t_36,NA,P25,472,c,low,west,low_c,low_c_west,Tortugo by cow farm,04/02/2017,04/07/2017,05/07/2017,13/02/2018,,,7.14,,7.1,8.9,0.20749,-78.94615
-T_37,T_37_20027806,t_t_37,NA,P26,495,u,low,west,low_u,low_u_west,Tortugo by stream through water pipe,04/02/2017,04/07/2017,05/07/2017,13/02/2018,,,1.5,,1.5,1.5,0.21068,-78.94229
-T_38,T_38_20027807,t_t_38,NA,P26,495,c,low,west,low_c,low_c_west,Tortugo by stream through water pipe,04/02/2017,04/07/2017,05/07/2017,13/02/2018,,,8.1,,8.1,9.9,0.21071,-78.94232
-T_39,T_39_20027808,t_t_39,NA,P28,483,u,low,west,low_u,low_u_west,Tortugo far away site,04/02/2017,04/07/2017,05/07/2017,13/02/2018,,,1,,1,1,0.21256,-78.93853
-T_40,T_40_20027809,t_t_40,NA,P28,483,c,low,west,low_c,low_c_west,Tortugo far away site,04/02/2017,04/07/2017,05/07/2017,13/02/2018,,,10.1,,10.1,11.9,0.21259,-78.93854
+code_mine,hoboware_name,temp_data_name,humidity_data_name,point,point_altitude,canopy_understory,alt_type,side_andes,alt_height_type,alt_height_slope,locality_nickname,date_launch_1,date_collect_1,date_launch_2,date_collect_2,latitude,longitude
+H_01,H_01_20041878,t_h_01,h_h_01,P01,400,u,low,east,low_u,low_u_east,"Jatun Sacha, jardin botanico",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.06569,-77.6283
+H_02,H_02_20041879,t_h_02,h_h_02,P01,400,c,low,east,low_c,low_c_east,"Jatun Sacha, jardin botanico",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.06569,-77.6283
+H_03,H_03_20041880,t_h_03,h_h_03,P05,446,u,low,east,low_u,low_u_east,"Jatun Sacha, trail in front botanico",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.06912,-77.62964
+H_04,H_04_20041881,t_h_04,h_h_04,P05,446,c,low,east,low_c,low_c_east,"Jatun Sacha, trail in front botanico",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.06912,-77.62964
+H_05,H_05_20041882,t_h_05,h_h_05,P10,1230,u,high,east,high_u,high_u_east,"Reserva Narupa, up trail",29/01/2017,27/07/2017,05/08/2017,08/02/2018,-0.67964,-77.73953
+H_06,H_06_20041883,t_h_06,h_h_06,P10,1230,c,high,east,high_c,high_c_east,"Reserva Narupa, up trail",29/01/2017,27/07/2017,05/08/2017,08/02/2018,-0.67964,-77.73953
+H_07,H_07_20041884,t_h_07,h_h_07,P13,1160,u,high,east,high_u,high_u_east,Narupa Finca jose,29/01/2017,27/07/2017,05/08/2017,08/02/2018,-0.72617,-77.76961
+H_08,H_08_20041885,t_h_08,h_h_08,P13,1163,c,high,east,high_c,high_c_east,Narupa Finca jose,29/01/2017,27/07/2017,05/08/2017,08/02/2018,-0.72621,-77.76957
+H_09,H_09_20041886,t_h_09,h_h_09,P15,1257,u,high,west,high_u,high_u_west,Mashpi Road P15,03/02/2017,01/07/2017,02/07/2017,12/02/2018,0.16013,-78.85695
+H_10,H_10_20041887,t_h_10,h_h_10,P15,1257,c,high,west,high_c,high_c_west,Mashpi Road P15,03/02/2017,01/07/2017,02/07/2017,12/02/2018,0.16007,-78.85694
+H_11,H_11_20041888,t_h_11,h_h_11,P19,1183,u,high,west,high_u,high_u_west,Mashpi Road P19,03/02/2017,01/07/2017,02/07/2017,12/02/2018,0.1567,-78.86184
+H_12,H_12_20041889,t_h_12,h_h_12,P19,1183,c,high,west,high_c,high_c_west,Mashpi Road P19,03/02/2017,01/07/2017,02/07/2017,12/02/2018,0.1567,-78.86184
+H_13,H_13_20041890,t_h_13,h_h_13,P23,442,u,low,west,low_u,low_u_west,Tortugo first site,03/02/2017,04/07/2017,05/07/2017,12/02/2018,0.21099,-78.95468
+H_14,H_14_20041891,t_h_14,h_h_14,P23,442,c,low,west,low_c,low_c_west,Tortugo first site,03/02/2017,04/07/2017,05/07/2017,12/02/2018,0.21097,-78.95468
+H_15,H_15_20041892,t_h_15,h_h_15,P27,488,u,low,west,low_u,low_u_west,Tortugo across stream with tapestry plants,03/02/2017,04/07/2017,05/07/2017,12/02/2018,0.21181,-78.9397
+H_16,H_16_20041893,t_h_16,h_h_16,P27,488,c,low,west,low_c,low_c_west,Tortugo across stream with tapestry plants,03/02/2017,04/07/2017,05/07/2017,12/02/2018,0.21181,-78.9397
+T_01,T_01_20027770,t_t_01,NA,P02,420,u,low,east,low_u,low_u_east,"Jatun Sacha, jardin botanico P02",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.06431,-77.62944
+T_02,T_02_20027771,t_t_02,NA,P02,420,c,low,east,low_c,low_c_east,"Jatun Sacha, jardin botanico P02",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.06431,-77.62944
+T_03,T_03_20027772,t_t_03,NA,P03,410,u,low,east,low_u,low_u_east,"Jatun Sacha, jardin botanico P03",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.06695,-77.62758
+T_04,T_04_20027773,t_t_04,NA,P03,410,c,low,east,low_c,low_c_east,"Jatun Sacha, jardin botanico P03",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.06695,-77.62758
+T_05,T_05_20027774,t_t_05,NA,P04,415,u,low,east,low_u,low_u_east,"Jatun Sacha, trail in front botanico",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.06791,-77.62869
+T_06,T_06_20027775,t_t_06,NA,P04,415,c,low,east,low_c,low_c_east,"Jatun Sacha, trail in front botanico",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.06791,-77.62869
+T_07,T_07_20027776,t_t_07,NA,P06,429,u,low,east,low_u,low_u_east,"Jatun Sacha, reserve/offices",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.06774,-77.61677
+T_08,T_08_20027777,t_t_08,NA,P06,429,c,low,east,low_c,low_c_east,"Jatun Sacha, reserve/offices",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.06774,-77.61677
+T_09,T_09_20027778,t_t_09,NA,P07,425,u,low,east,low_u,low_u_east,"Jatun Sacha, reserve/offices",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.0692,-77.61621
+T_10,T_10_20027779,t_t_10,NA,P07,425,c,low,east,low_c,low_c_east,"Jatun Sacha, reserve/offices",26/01/2017,15/07/2017,16/07/2017,07/02/2018,-1.0692,-77.61621
+T_11,T_11_20027780,t_t_11,NA,P08,1162,u,high,east,high_u,high_u_east,"Reserva Narupa, up trail to Mirador",28/01/2017,taken,05/08/2017,08/02/2018,-0.68252,-77.73954
+T_12,T_12_20027781,t_t_12,NA,P08,1162,c,high,east,high_c,high_c_east,"Reserva Narupa, up trail to Mirador",28/01/2017,taken,05/08/2017,08/02/2018,-0.68253,-77.73956
+T_13,T_13_20027782,t_t_13,NA,P09,1201,u,high,east,high_u,high_u_east,"Reserva Narupa, up trail to Mirador",28/01/2017,taken,05/08/2017,08/02/2018,-0.6812,-77.73991
+T_14,T_14_20027783,t_t_14,NA,P09,1201,c,high,east,high_c,high_c_east,"Reserva Narupa, up trail to Mirador",28/01/2017,taken,05/08/2017,08/02/2018,-0.68116,-77.73996
+T_15,T_15_20027784,t_t_15,NA,P11,1238,u,high,east,high_u,high_u_east,"Reserva Narupa, down shitty trail off Y (fallen tree)",28/01/2017,27/07/2017,05/08/2017,08/02/2018,-0.67926,-77.74097
+T_16,T_16_20027785,t_t_16,NA,P11,1238,c,high,east,high_c,high_c_east,"Reserva Narupa, down shitty trail off Y (fallen tree)",28/01/2017,27/07/2017,05/08/2017,08/02/2018,-0.6793,-77.74089
+T_17,T_17_20027786,t_t_17,NA,P12,1291,u,high,east,high_u,high_u_east,"Reserva Narupa, up steep after Y",28/01/2017,27/07/2017,05/08/2017,08/02/2018,-0.67837,-77.73883
+T_18,T_18_20027787,t_t_18,NA,P12,1291,c,high,east,high_c,high_c_east,"Reserva Narupa, up steep after Y",28/01/2017,27/07/2017,05/08/2017,08/02/2018,-0.67837,-77.73883
+T_19,T_19_20027788,t_t_19,NA,P14,1257,u,high,east,high_u,high_u_east,Narupa Finca jose,28/01/2017,27/07/2017,05/08/2017,08/02/2018,-0.72644,-77.77089
+T_20,T_20_20027789,t_t_20,NA,P14,1255,c,high,east,high_c,high_c_east,Narupa Finca jose,28/01/2017,27/07/2017,05/08/2017,08/02/2018,-0.7264,-77.7709
+T_21,T_21_20027790,t_t_21,NA,P16,1251,u,high,west,high_u,high_u_west,"Mashpi Road, P16",03/02/2017,01/07/2017,02/07/2017,13/02/2018,0.15933,-78.85829
+T_22,T_22_20027791,t_t_22,NA,P16,1251,c,high,west,high_c,high_c_west,"Mashpi Road, P16",03/02/2017,01/07/2017,02/07/2017,13/02/2018,0.15935,-78.85828
+T_23,T_23_20027792,t_t_23,NA,P17,1227,u,high,west,high_u,high_u_west,"Mashpi Road, P17",03/02/2017,01/07/2017,02/07/2017,13/02/2018,0.15806,-78.85981
+T_24,T_24_20027793,t_t_24,NA,P17,1227,c,high,west,high_c,high_c_west,"Mashpi Road, P17",03/02/2017,01/07/2017,02/07/2017,13/02/2018,0.15806,-78.85981
+T_25,T_25_20027794,t_t_25,NA,P18,1233,u,high,west,high_u,high_u_west,"Mashpi Road, P18",03/02/2017,01/07/2017,02/07/2017,13/02/2018,0.15669,-78.86036
+T_26,T_26_20027795,t_t_26,NA,P18,1233,c,high,west,high_c,high_c_west,"Mashpi Road, P18",03/02/2017,01/07/2017,02/07/2017,13/02/2018,0.15662,-78.86037
+T_27,T_27_20027796,t_t_27,NA,P20,1172,u,high,west,high_u,high_u_west,"Mashpi Road, P20",03/02/2017,01/07/2017,02/07/2017,13/02/2018,0.1562,-78.86365
+T_28,T_28_20027797,t_t_28,NA,P20,1172,c,high,west,high_c,high_c_west,"Mashpi Road, P20",03/02/2017,01/07/2017,02/07/2017,13/02/2018,0.15626,-78.86365
+T_29,T_29_20027798,t_t_29,NA,P21,1138,u,high,west,high_u,high_u_west,"Mashpi Road, P21",03/02/2017,01/07/2017,02/07/2017,13/02/2018,0.15714,-78.86632
+T_30,T_30_20027799,t_t_30,NA,P21,1138,c,high,west,high_c,high_c_west,"Mashpi Road, P21",03/02/2017,01/07/2017,02/07/2017,13/02/2018,0.1572,-78.86641
+T_31,T_31_20027800,t_t_31,NA,P22,423,u,low,west,low_u,low_u_west,"Tortugo, near car park ",03/02/2017,04/07/2017,05/07/2017,13/02/2018,0.20953,-78.95562
+T_32,T_32_20027801,t_t_32,NA,P22,423,c,low,west,low_c,low_c_west,"Tortugo, near car park",03/02/2017,04/07/2017,05/07/2017,13/02/2018,0.20954,-78.95552
+T_33,T_33_20027802,t_t_33,NA,P24,476,u,low,west,low_u,low_u_west,Tortugo forest steep upwards,03/02/2017,04/07/2017,05/07/2017,13/02/2018,0.20981,-78.95385
+T_34,T_34_20027803,t_t_34,NA,P24,476,c,low,west,low_c,low_c_west,Tortugo forest steep upwards,04/02/2017,04/07/2017,05/07/2017,13/02/2018,0.20981,-78.95385
+T_35,T_35_20027804,t_t_35,NA,P25,472,u,low,west,low_u,low_u_west,Tortugo by cow farm,04/02/2017,04/07/2017,05/07/2017,13/02/2018,0.2075,-78.94615
+T_36,T_36_20027805,t_t_36,NA,P25,472,c,low,west,low_c,low_c_west,Tortugo by cow farm,04/02/2017,04/07/2017,05/07/2017,13/02/2018,0.20749,-78.94615
+T_37,T_37_20027806,t_t_37,NA,P26,495,u,low,west,low_u,low_u_west,Tortugo by stream through water pipe,04/02/2017,04/07/2017,05/07/2017,13/02/2018,0.21068,-78.94229
+T_38,T_38_20027807,t_t_38,NA,P26,495,c,low,west,low_c,low_c_west,Tortugo by stream through water pipe,04/02/2017,04/07/2017,05/07/2017,13/02/2018,0.21071,-78.94232
+T_39,T_39_20027808,t_t_39,NA,P28,483,u,low,west,low_u,low_u_west,Tortugo far away site,04/02/2017,04/07/2017,05/07/2017,13/02/2018,0.21256,-78.93853
+T_40,T_40_20027809,t_t_40,NA,P28,483,c,low,west,low_c,low_c_west,Tortugo far away site,04/02/2017,04/07/2017,05/07/2017,13/02/2018,0.21259,-78.93854
